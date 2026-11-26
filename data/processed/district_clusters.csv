@@ -1,0 +1,784 @@
+geo_key,state,district,ttm_tpv_cr,ttm_tx_count,registered_users,tx_per_user,avg_ticket_size,yoy_tpv_growth_pct,cluster_id,segment
+Karnataka | Bengaluru Urban,Karnataka,Bengaluru Urban,838495.93,8035461609,20543058,391.15,1043.49,12.56,3,Metro & Tier-1 Powerhouses
+Maharashtra | Pune,Maharashtra,Pune,396480.48,4504710893,14753740,305.33,880.15,20.05,3,Metro & Tier-1 Powerhouses
+Telangana | Rangareddy,Telangana,Rangareddy,382981.7,3127279267,7229570,432.57,1224.65,19.53,3,Metro & Tier-1 Powerhouses
+Telangana | Medchal Malkajgiri,Telangana,Medchal Malkajgiri,336782.88,2835683136,6313836,449.12,1187.66,16.68,3,Metro & Tier-1 Powerhouses
+Rajasthan | Jaipur,Rajasthan,Jaipur,281493.8,2449302417,7999367,306.19,1149.28,12.49,3,Metro & Tier-1 Powerhouses
+Telangana | Hyderabad,Telangana,Hyderabad,248868.7,2155145229,5840094,369.03,1154.77,13.13,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Visakhapatnam,Andhra Pradesh,Visakhapatnam,143469.72,1137586881,2800236,406.25,1261.18,16.56,3,Metro & Tier-1 Powerhouses
+Maharashtra | Nashik,Maharashtra,Nashik,141173.24,1205864691,4715835,255.71,1170.72,21.09,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Indore,Madhya Pradesh,Indore,128200.14,1308962608,4118995,317.79,979.4,17.39,3,Metro & Tier-1 Powerhouses
+Haryana | Gurugram,Haryana,Gurugram,125928.76,1509212292,5282943,285.68,834.4,16.41,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Gautambuddha Nagar,Uttar Pradesh,Gautambuddha Nagar,123255.22,1595861064,5609621,284.49,772.34,16.6,3,Metro & Tier-1 Powerhouses
+Maharashtra | Thane,Maharashtra,Thane,121397.92,1304914172,8346491,156.34,930.31,15.99,3,Metro & Tier-1 Powerhouses
+West Bengal | North Twenty Four Parganas,West Bengal,North Twenty Four Parganas,119494.43,1031491933,6080783,169.63,1158.46,15.45,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Ntr,Andhra Pradesh,Ntr,118012.38,876019208,2258324,387.91,1347.14,18.64,3,Metro & Tier-1 Powerhouses
+Gujarat | Ahmedabad,Gujarat,Ahmedabad,113213.85,972757630,6724772,144.65,1163.84,15.95,3,Metro & Tier-1 Powerhouses
+Odisha | Khordha,Odisha,Khordha,112414.23,1180225655,3062384,385.39,952.48,18.79,3,Metro & Tier-1 Powerhouses
+Maharashtra | Solapur,Maharashtra,Solapur,110721.59,864580259,2688732,321.56,1280.64,22.74,3,Metro & Tier-1 Powerhouses
+Maharashtra | Chhatrapati Sambhaji Nagar,Maharashtra,Chhatrapati Sambhaji Nagar,107767.27,1025476814,3285314,312.14,1050.9,23.56,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Tirupati,Andhra Pradesh,Tirupati,107398.8,825940659,2219362,372.15,1300.32,19.76,3,Metro & Tier-1 Powerhouses
+Maharashtra | Ahilyanagar,Maharashtra,Ahilyanagar,107192.18,820841384,3056663,268.54,1305.88,18.67,3,Metro & Tier-1 Powerhouses
+Bihar | Patna,Bihar,Patna,100796.35,919711828,4677723,196.62,1095.96,17.3,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Guntur,Andhra Pradesh,Guntur,98820.95,729395831,2002926,364.17,1354.83,19.65,3,Metro & Tier-1 Powerhouses
+Maharashtra | Nagpur,Maharashtra,Nagpur,98268.96,858496804,4040766,212.46,1144.66,19.28,3,Metro & Tier-1 Powerhouses
+Maharashtra | Mumbai Suburban,Maharashtra,Mumbai Suburban,96197.83,1077852792,7625449,141.35,892.5,13.08,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Sri Potti Sriramulu Nellore,Andhra Pradesh,Sri Potti Sriramulu Nellore,91153.56,599984051,1729942,346.82,1519.27,19.98,3,Metro & Tier-1 Powerhouses
+Telangana | Sangareddy,Telangana,Sangareddy,89966.33,729256411,1849509,394.3,1233.67,22.18,3,Metro & Tier-1 Powerhouses
+West Bengal | Kolkata,West Bengal,Kolkata,85282.29,686900734,3957483,173.57,1241.55,13.35,3,Metro & Tier-1 Powerhouses
+Karnataka | Mysuru,Karnataka,Mysuru,84421.24,664458138,2414508,275.19,1270.53,15.88,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Bhopal,Madhya Pradesh,Bhopal,82883.43,883905707,2930803,301.59,937.7,17.75,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Ghaziabad,Uttar Pradesh,Ghaziabad,79803.54,763543057,4061254,188.01,1045.17,13.24,3,Metro & Tier-1 Powerhouses
+Gujarat | Surat,Gujarat,Surat,78129.16,774384928,5936087,130.45,1008.92,19.62,3,Metro & Tier-1 Powerhouses
+West Bengal | Murshidabad,West Bengal,Murshidabad,77288.96,500083793,3131835,159.68,1545.52,21.03,3,Metro & Tier-1 Powerhouses
+Tamil Nadu | Chennai,Tamil Nadu,Chennai,76768.38,693266865,6215686,111.54,1107.34,10.14,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Ananthapuramu,Andhra Pradesh,Ananthapuramu,74092.32,521563245,1555974,335.2,1420.58,17.89,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Ysr Kadapa,Andhra Pradesh,Ysr Kadapa,73533.15,453471347,1407575,322.16,1621.56,16.09,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Kakinada,Andhra Pradesh,Kakinada,73234.28,546328587,1518007,359.9,1340.48,19.49,3,Metro & Tier-1 Powerhouses
+Karnataka | Belagavi,Karnataka,Belagavi,72968.37,611115357,2597822,235.24,1194.02,14.86,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Prakasam,Andhra Pradesh,Prakasam,72739.95,472373930,1391582,339.45,1539.88,17.85,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | East Godavari,Andhra Pradesh,East Godavari,71705.24,498371189,1370485,363.65,1438.79,21.18,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Lucknow,Uttar Pradesh,Lucknow,71084.7,705400819,4467992,157.88,1007.72,15.94,3,Metro & Tier-1 Powerhouses
+Rajasthan | Jodhpur,Rajasthan,Jodhpur,68212.34,519276389,2341306,221.79,1313.6,12.18,3,Metro & Tier-1 Powerhouses
+Karnataka | Bengaluru Rural,Karnataka,Bengaluru Rural,67963.28,585457311,1550735,377.54,1160.86,18.81,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Eluru,Andhra Pradesh,Eluru,67942.62,474124275,1279217,370.64,1433.01,19.21,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | West Godavari,Andhra Pradesh,West Godavari,62447.27,422904182,1195968,353.61,1476.63,20.69,3,Metro & Tier-1 Powerhouses
+Haryana | Faridabad,Haryana,Faridabad,62169.8,620706004,2760927,224.82,1001.6,15.43,3,Metro & Tier-1 Powerhouses
+Karnataka | Tumakuru,Karnataka,Tumakuru,61165.22,459364013,1670563,274.98,1331.52,13.24,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Kurnool,Andhra Pradesh,Kurnool,60658.39,449574646,1445853,310.94,1349.24,17.72,3,Metro & Tier-1 Powerhouses
+Delhi | Central,Delhi,Central,59780.73,525111655,2295062,228.8,1138.44,10.66,3,Metro & Tier-1 Powerhouses
+Maharashtra | Jalgaon,Maharashtra,Jalgaon,59642.4,465230139,2154509,215.93,1282.0,24.04,3,Metro & Tier-1 Powerhouses
+West Bengal | South Twenty Four Parganas,West Bengal,South Twenty Four Parganas,59580.47,436656145,3352814,130.24,1364.47,20.91,3,Metro & Tier-1 Powerhouses
+Telangana | Nalgonda,Telangana,Nalgonda,58959.52,373131575,988045,377.65,1580.13,22.4,3,Metro & Tier-1 Powerhouses
+Delhi | South West,Delhi,South West,58407.35,576634632,2807436,205.4,1012.9,11.37,3,Metro & Tier-1 Powerhouses
+Maharashtra | Nanded,Maharashtra,Nanded,57930.18,466006621,1764475,264.1,1243.12,24.43,3,Metro & Tier-1 Powerhouses
+Rajasthan | Sikar,Rajasthan,Sikar,57026.39,382353333,1831450,208.77,1491.46,9.17,3,Metro & Tier-1 Powerhouses
+Bihar | Purbi Champaran,Bihar,Purbi Champaran,56493.07,503530518,2309199,218.05,1121.94,16.82,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Annamayya,Andhra Pradesh,Annamayya,55481.42,351568836,1083722,324.41,1578.11,17.13,3,Metro & Tier-1 Powerhouses
+Telangana | Nizamabad,Telangana,Nizamabad,55348.83,326903708,1064071,307.22,1693.12,23.29,3,Metro & Tier-1 Powerhouses
+Jharkhand | Ranchi,Jharkhand,Ranchi,55211.03,527008050,2376732,221.74,1047.63,18.73,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Palnadu,Andhra Pradesh,Palnadu,55106.32,358784704,1145432,313.23,1535.92,19.82,3,Metro & Tier-1 Powerhouses
+Delhi | South East,Delhi,South East,54525.29,610410459,2525338,241.71,893.26,12.05,3,Metro & Tier-1 Powerhouses
+Karnataka | Kalaburagi,Karnataka,Kalaburagi,54014.21,435906643,1442143,302.26,1239.12,15.19,3,Metro & Tier-1 Powerhouses
+Maharashtra | Beed,Maharashtra,Beed,53501.3,396423053,1411573,280.84,1349.6,26.37,3,Metro & Tier-1 Powerhouses
+Chhattisgarh | Raipur,Chhattisgarh,Raipur,53018.77,502248770,2143139,234.35,1055.63,17.17,3,Metro & Tier-1 Powerhouses
+West Bengal | Purba Medinipur,West Bengal,Purba Medinipur,52952.46,360259309,2152939,167.33,1469.84,16.49,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Srikakulam,Andhra Pradesh,Srikakulam,52676.76,352840129,1148380,307.25,1492.94,19.52,3,Metro & Tier-1 Powerhouses
+Bihar | Muzaffarpur,Bihar,Muzaffarpur,52431.38,431146487,2261303,190.66,1216.09,16.74,3,Metro & Tier-1 Powerhouses
+Odisha | Cuttack,Odisha,Cuttack,51915.13,486204981,1711793,284.03,1067.76,18.68,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Nandyal,Andhra Pradesh,Nandyal,51409.59,345548409,1064099,324.73,1487.77,19.1,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Chittoor,Andhra Pradesh,Chittoor,51370.5,353087577,1126392,313.47,1454.89,16.36,3,Metro & Tier-1 Powerhouses
+Rajasthan | Ajmer,Rajasthan,Ajmer,51205.85,380781455,1477232,257.77,1344.76,14.15,3,Metro & Tier-1 Powerhouses
+Rajasthan | Bhilwara,Rajasthan,Bhilwara,50551.13,399838163,1480816,270.01,1264.29,10.52,3,Metro & Tier-1 Powerhouses
+Odisha | Ganjam,Odisha,Ganjam,50523.7,375197620,1688000,222.27,1346.59,20.08,3,Metro & Tier-1 Powerhouses
+West Bengal | Malda,West Bengal,Malda,50445.84,354912255,1861790,190.63,1421.36,23.99,3,Metro & Tier-1 Powerhouses
+West Bengal | Nadia,West Bengal,Nadia,50125.61,349134246,2331051,149.78,1435.71,18.83,3,Metro & Tier-1 Powerhouses
+Karnataka | Kolar,Karnataka,Kolar,50019.28,367407334,1166361,315.0,1361.41,13.73,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Anakapalli,Andhra Pradesh,Anakapalli,49903.91,353274475,1005920,351.2,1412.61,19.39,3,Metro & Tier-1 Powerhouses
+Telangana | Khammam,Telangana,Khammam,49713.64,346012437,954846,362.38,1436.76,21.31,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Vizianagaram,Andhra Pradesh,Vizianagaram,49445.56,350170855,1027416,340.83,1412.04,17.37,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Agra,Uttar Pradesh,Agra,48463.91,401178368,2675497,149.95,1208.04,16.44,3,Metro & Tier-1 Powerhouses
+West Bengal | Howrah,West Bengal,Howrah,47576.34,364115045,2608014,139.61,1306.63,15.87,3,Metro & Tier-1 Powerhouses
+Telangana | Hanumakonda,Telangana,Hanumakonda,47443.23,337551043,801280,421.26,1405.51,18.66,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Dr Br Ambedkar Konaseema,Andhra Pradesh,Dr Br Ambedkar Konaseema,46882.59,322556304,930577,346.62,1453.47,23.65,3,Metro & Tier-1 Powerhouses
+Maharashtra | Latur,Maharashtra,Latur,46851.76,413250894,1416945,291.65,1133.74,26.13,3,Metro & Tier-1 Powerhouses
+Karnataka | Dharwad,Karnataka,Dharwad,46246.31,433868172,1462055,296.75,1065.91,14.83,3,Metro & Tier-1 Powerhouses
+Telangana | Karimnagar,Telangana,Karimnagar,46169.71,309598501,851085,363.77,1491.28,20.43,3,Metro & Tier-1 Powerhouses
+Maharashtra | Raigad,Maharashtra,Raigad,46147.26,493309098,2644996,186.51,935.46,20.52,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Gwalior,Madhya Pradesh,Gwalior,45786.13,377129873,1674749,225.19,1214.07,17.65,3,Metro & Tier-1 Powerhouses
+Karnataka | Hassan,Karnataka,Hassan,45357.24,316399951,1110612,284.89,1433.54,15.42,3,Metro & Tier-1 Powerhouses
+Delhi | West,Delhi,West,44981.89,389535471,2163729,180.03,1154.76,9.27,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Sri Sathyasai,Andhra Pradesh,Sri Sathyasai,44663.87,313510768,1068571,293.39,1424.64,19.16,3,Metro & Tier-1 Powerhouses
+Karnataka | Vijayapura,Karnataka,Vijayapura,44328.25,348350437,1324162,263.07,1272.52,17.07,3,Metro & Tier-1 Powerhouses
+Delhi | North West,Delhi,North West,43712.44,371482181,2150430,172.75,1176.7,11.34,3,Metro & Tier-1 Powerhouses
+Delhi | New Delhi,Delhi,New Delhi,43460.7,476111955,1776422,268.02,912.83,11.37,3,Metro & Tier-1 Powerhouses
+Bihar | Gaya,Bihar,Gaya,43391.97,339926684,1850142,183.73,1276.51,17.4,3,Metro & Tier-1 Powerhouses
+Maharashtra | Mumbai,Maharashtra,Mumbai,43121.82,447087119,2820660,158.5,964.51,13.41,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Krishna,Andhra Pradesh,Krishna,42839.09,307156776,944398,325.24,1394.7,18.78,3,Metro & Tier-1 Powerhouses
+Karnataka | Mandya,Karnataka,Mandya,42713.07,280015291,975953,286.91,1525.38,15.14,3,Metro & Tier-1 Powerhouses
+Delhi | North,Delhi,North,42551.45,381490122,2039167,187.08,1115.4,12.81,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Prayagraj,Uttar Pradesh,Prayagraj,42429.44,411868100,2902034,141.92,1030.17,8.74,3,Metro & Tier-1 Powerhouses
+West Bengal | Hooghly,West Bengal,Hooghly,42410.67,322219624,2429162,132.65,1316.2,17.28,3,Metro & Tier-1 Powerhouses
+Bihar | Pashchim Champaran,Bihar,Pashchim Champaran,41049.49,376638806,1743350,216.04,1089.89,20.87,3,Metro & Tier-1 Powerhouses
+Rajasthan | Kota,Rajasthan,Kota,40961.97,378379820,1566004,241.62,1082.56,14.53,3,Metro & Tier-1 Powerhouses
+Maharashtra | Amravati,Maharashtra,Amravati,40684.83,336761694,1621144,207.73,1208.12,21.95,3,Metro & Tier-1 Powerhouses
+Rajasthan | Bikaner,Rajasthan,Bikaner,40246.29,292002279,1507919,193.65,1378.29,13.66,3,Metro & Tier-1 Powerhouses
+Telangana | Siddipet,Telangana,Siddipet,40060.57,258858087,698859,370.4,1547.59,20.62,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Meerut,Uttar Pradesh,Meerut,40048.23,315775059,1999429,157.93,1268.25,17.38,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Varanasi,Uttar Pradesh,Varanasi,39441.03,332622811,2544739,130.71,1185.76,15.33,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Bapatla,Andhra Pradesh,Bapatla,39215.44,266143142,832865,319.55,1473.47,19.94,3,Metro & Tier-1 Powerhouses
+Maharashtra | Buldhana,Maharashtra,Buldhana,39111.91,332222654,1350212,246.05,1177.28,24.37,3,Metro & Tier-1 Powerhouses
+Maharashtra | Satara,Maharashtra,Satara,38854.33,354209735,1737945,203.81,1096.93,21.06,3,Metro & Tier-1 Powerhouses
+West Bengal | Paschim Medinipur,West Bengal,Paschim Medinipur,38831.7,310567585,1918896,161.85,1250.35,14.47,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Ujjain,Madhya Pradesh,Ujjain,38086.81,342332349,1368511,250.15,1112.57,20.6,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Kanpur Nagar,Uttar Pradesh,Kanpur Nagar,37025.91,301444993,2597690,116.04,1228.28,12.41,3,Metro & Tier-1 Powerhouses
+Karnataka | Chikkaballapur,Karnataka,Chikkaballapur,37016.89,244259435,804875,303.47,1515.47,14.15,3,Metro & Tier-1 Powerhouses
+Tamil Nadu | Krishnagiri,Tamil Nadu,Krishnagiri,36792.23,278205071,1558111,178.55,1322.49,17.87,3,Metro & Tier-1 Powerhouses
+Karnataka | Bidar,Karnataka,Bidar,36714.7,290404298,920924,315.34,1264.26,13.93,3,Metro & Tier-1 Powerhouses
+Telangana | Warangal,Telangana,Warangal,36642.45,245490048,644742,380.76,1492.62,20.38,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Mathura,Uttar Pradesh,Mathura,36609.69,328227316,1700916,192.97,1115.38,21.25,3,Metro & Tier-1 Powerhouses
+Karnataka | Bengaluru South,Karnataka,Bengaluru South,36552.35,289180687,858513,336.84,1264.0,14.81,3,Metro & Tier-1 Powerhouses
+Maharashtra | Jalna,Maharashtra,Jalna,36278.08,290585581,1090655,266.43,1248.45,26.19,3,Metro & Tier-1 Powerhouses
+Karnataka | Ballari,Karnataka,Ballari,36097.59,303981260,945047,321.66,1187.49,10.45,3,Metro & Tier-1 Powerhouses
+Bihar | Purnea,Bihar,Purnea,36080.44,302558817,1472576,205.46,1192.51,20.1,3,Metro & Tier-1 Powerhouses
+Karnataka | Raichur,Karnataka,Raichur,36048.27,280391825,987196,284.03,1285.64,11.42,3,Metro & Tier-1 Powerhouses
+Maharashtra | Kolhapur,Maharashtra,Kolhapur,35858.15,317472066,2174003,146.03,1129.49,17.76,3,Metro & Tier-1 Powerhouses
+Telangana | Suryapet,Telangana,Suryapet,35840.35,221379001,616636,359.01,1618.96,23.29,3,Metro & Tier-1 Powerhouses
+Karnataka | Shivamogga,Karnataka,Shivamogga,35378.32,283359588,1109281,255.44,1248.53,14.23,3,Metro & Tier-1 Powerhouses
+Bihar | Samastipur,Bihar,Samastipur,35068.79,284417638,1693494,167.95,1233.0,17.83,3,Metro & Tier-1 Powerhouses
+Maharashtra | Palghar,Maharashtra,Palghar,34849.81,370358587,2729334,135.7,940.97,16.92,3,Metro & Tier-1 Powerhouses
+Telangana | Bhadradri Kothagudem,Telangana,Bhadradri Kothagudem,34843.39,258352075,706875,365.48,1348.68,21.47,3,Metro & Tier-1 Powerhouses
+Maharashtra | Sangli,Maharashtra,Sangli,34672.17,282079519,1580036,178.53,1229.16,19.79,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Gorakhpur,Uttar Pradesh,Gorakhpur,34549.05,294145312,2244276,131.06,1174.56,15.37,3,Metro & Tier-1 Powerhouses
+Tamil Nadu | Coimbatore,Tamil Nadu,Coimbatore,34480.84,310296086,3153601,98.39,1111.22,14.07,3,Metro & Tier-1 Powerhouses
+Karnataka | Davanagere,Karnataka,Davanagere,34192.58,276000722,1037636,265.99,1238.86,13.98,3,Metro & Tier-1 Powerhouses
+Rajasthan | Jhunjhunu,Rajasthan,Jhunjhunu,34133.66,218014939,1242437,175.47,1565.66,7.89,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Bareilly,Uttar Pradesh,Bareilly,34012.57,272133706,2011083,135.32,1249.85,19.12,3,Metro & Tier-1 Powerhouses
+Tamil Nadu | Chengalpattu,Tamil Nadu,Chengalpattu,33757.41,321129884,2706058,118.67,1051.21,13.82,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Aligarh,Uttar Pradesh,Aligarh,33670.4,295788003,1827241,161.88,1138.33,18.73,3,Metro & Tier-1 Powerhouses
+Bihar | Saran,Bihar,Saran,33601.76,286744654,1566925,183.0,1171.84,15.72,3,Metro & Tier-1 Powerhouses
+West Bengal | Purba Bardhaman,West Bengal,Purba Bardhaman,33574.12,239814401,1848710,129.72,1400.0,19.18,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Saharanpur,Uttar Pradesh,Saharanpur,33543.66,264871382,1662653,159.31,1266.41,17.51,3,Metro & Tier-1 Powerhouses
+Bihar | Darbhanga,Bihar,Darbhanga,33309.66,270503731,1583605,170.82,1231.39,15.64,3,Metro & Tier-1 Powerhouses
+Rajasthan | Sri Ganganagar,Rajasthan,Sri Ganganagar,32965.37,233337124,1227393,190.11,1412.78,16.48,3,Metro & Tier-1 Powerhouses
+Odisha | Balasore,Odisha,Balasore,32701.87,266913139,1217410,219.25,1225.19,17.8,3,Metro & Tier-1 Powerhouses
+Bihar | Madhubani,Bihar,Madhubani,32608.98,263788472,1548198,170.38,1236.18,14.19,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Jabalpur,Madhya Pradesh,Jabalpur,32330.26,286569952,1602539,178.82,1128.18,17.79,3,Metro & Tier-1 Powerhouses
+Rajasthan | Alwar,Rajasthan,Alwar,32166.79,280588665,1286894,218.04,1146.4,9.15,3,Metro & Tier-1 Powerhouses
+Telangana | Yadadri Bhuvanagiri,Telangana,Yadadri Bhuvanagiri,32079.72,212806411,554483,383.79,1507.46,17.66,3,Metro & Tier-1 Powerhouses
+Telangana | Mahabubnagar,Telangana,Mahabubnagar,32006.74,232139115,650091,357.09,1378.77,22.98,3,Metro & Tier-1 Powerhouses
+Bihar | Katihar,Bihar,Katihar,31937.9,263989933,1315773,200.63,1209.82,19.29,3,Metro & Tier-1 Powerhouses
+Bihar | Siwan,Bihar,Siwan,31680.67,255117170,1376348,185.36,1241.81,17.51,3,Metro & Tier-1 Powerhouses
+West Bengal | Paschim Bardhaman,West Bengal,Paschim Bardhaman,31626.57,292071499,1737895,168.06,1082.84,15.24,3,Metro & Tier-1 Powerhouses
+Maharashtra | Dharashiv,Maharashtra,Dharashiv,31574.25,261428750,866411,301.74,1207.76,23.6,3,Metro & Tier-1 Powerhouses
+Odisha | Jajpur,Odisha,Jajpur,31199.43,309527440,1078499,287.0,1007.97,16.7,3,Metro & Tier-1 Powerhouses
+Bihar | Vaishali,Bihar,Vaishali,31148.9,247928324,1456708,170.2,1256.37,16.61,3,Metro & Tier-1 Powerhouses
+Karnataka | Bagalkote,Karnataka,Bagalkote,30541.93,258190670,1014150,254.59,1182.92,13.14,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Dhar,Madhya Pradesh,Dhar,30449.0,284173181,1178501,241.13,1071.49,19.99,3,Metro & Tier-1 Powerhouses
+Rajasthan | Udaipur,Rajasthan,Udaipur,30275.24,271558298,1439898,188.6,1114.87,15.19,3,Metro & Tier-1 Powerhouses
+Telangana | Jagtial,Telangana,Jagtial,30159.92,170695769,584597,291.99,1766.88,22.63,3,Metro & Tier-1 Powerhouses
+Bihar | Rohtas,Bihar,Rohtas,30050.02,226288192,1210717,186.9,1327.95,17.99,3,Metro & Tier-1 Powerhouses
+Jharkhand | Hazaribag,Jharkhand,Hazaribag,29880.74,242764476,1040823,233.24,1230.85,16.9,3,Metro & Tier-1 Powerhouses
+Jharkhand | Dhanbad,Jharkhand,Dhanbad,29794.71,282297876,1460404,193.3,1055.44,18.39,3,Metro & Tier-1 Powerhouses
+Karnataka | Chitradurga,Karnataka,Chitradurga,29700.96,222151781,857762,258.99,1336.97,11.77,3,Metro & Tier-1 Powerhouses
+Delhi | Shahdara,Delhi,Shahdara,29355.41,235508228,1370880,171.79,1246.47,10.63,3,Metro & Tier-1 Powerhouses
+West Bengal | Uttar Dinajpur,West Bengal,Uttar Dinajpur,29177.62,212335792,1268350,167.41,1374.13,21.28,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Moradabad,Uttar Pradesh,Moradabad,28878.82,228095179,1476607,154.47,1266.09,17.02,3,Metro & Tier-1 Powerhouses
+Karnataka | Dakshina Kannada,Karnataka,Dakshina Kannada,28860.18,240088971,1572822,152.65,1202.06,14.45,3,Metro & Tier-1 Powerhouses
+Maharashtra | Yavatmal,Maharashtra,Yavatmal,28843.08,249240252,1276959,195.18,1157.24,23.74,3,Metro & Tier-1 Powerhouses
+Delhi | East,Delhi,East,28502.76,302613185,1410783,214.5,941.89,9.83,3,Metro & Tier-1 Powerhouses
+Delhi | South,Delhi,South,28492.76,328349367,1483295,221.36,867.76,11.17,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Bulandshahr,Uttar Pradesh,Bulandshahr,28485.76,248509253,1498671,165.82,1146.27,17.27,3,Metro & Tier-1 Powerhouses
+Telangana | Mancherial,Telangana,Mancherial,28440.92,203172890,542518,374.5,1399.84,17.6,3,Metro & Tier-1 Powerhouses
+Odisha | Puri,Odisha,Puri,28140.54,269385442,968686,278.09,1044.62,22.17,3,Metro & Tier-1 Powerhouses
+Rajasthan | Kotputli Behror,Rajasthan,Kotputli Behror,28075.07,205248539,851871,240.94,1367.86,10.79,3,Metro & Tier-1 Powerhouses
+Maharashtra | Dhule,Maharashtra,Dhule,28024.77,222478240,1026399,216.76,1259.66,24.91,3,Metro & Tier-1 Powerhouses
+Bihar | Bhagalpur,Bihar,Bhagalpur,27985.68,247323101,1447411,170.87,1131.54,19.81,3,Metro & Tier-1 Powerhouses
+West Bengal | Birbhum,West Bengal,Birbhum,27941.85,203206885,1399953,145.15,1375.04,19.51,3,Metro & Tier-1 Powerhouses
+Maharashtra | Parbhani,Maharashtra,Parbhani,27800.92,234802693,907133,258.84,1184.01,28.24,3,Metro & Tier-1 Powerhouses
+Delhi | North East,Delhi,North East,27751.11,219738951,1227659,178.99,1262.91,10.7,3,Metro & Tier-1 Powerhouses
+Uttarakhand | Dehradun,Uttarakhand,Dehradun,27377.14,274369220,1944680,141.09,997.82,15.96,3,Metro & Tier-1 Powerhouses
+Rajasthan | Churu,Rajasthan,Churu,27243.18,170597610,1087096,156.93,1596.93,9.09,3,Metro & Tier-1 Powerhouses
+Odisha | Sundargarh,Odisha,Sundargarh,27039.63,245481820,1180407,207.96,1101.49,15.35,3,Metro & Tier-1 Powerhouses
+Telangana | Peddapalli,Telangana,Peddapalli,26883.31,190170905,508652,373.87,1413.64,20.11,3,Metro & Tier-1 Powerhouses
+Punjab | Ludhiana,Punjab,Ludhiana,26403.14,224158017,2834380,79.09,1177.88,19.4,3,Metro & Tier-1 Powerhouses
+Assam | Kamrup Metropolitan,Assam,Kamrup Metropolitan,26154.39,296794085,1676886,176.99,881.23,20.66,3,Metro & Tier-1 Powerhouses
+Tamil Nadu | Tiruvallur,Tamil Nadu,Tiruvallur,26022.39,229526049,1997839,114.89,1133.74,14.16,3,Metro & Tier-1 Powerhouses
+Haryana | Rewari,Haryana,Rewari,25897.32,215322332,959217,224.48,1202.72,15.63,3,Metro & Tier-1 Powerhouses
+Bihar | Begusarai,Bihar,Begusarai,25673.28,220678464,1240451,177.9,1163.38,19.88,3,Metro & Tier-1 Powerhouses
+Bihar | Araria,Bihar,Araria,25649.09,220657938,1128215,195.58,1162.39,20.0,3,Metro & Tier-1 Powerhouses
+Gujarat | Gandhinagar,Gujarat,Gandhinagar,25487.61,227649039,1507310,151.03,1119.6,19.37,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Dewas,Madhya Pradesh,Dewas,25332.72,222127619,865214,256.73,1140.46,17.88,3,Metro & Tier-1 Powerhouses
+Haryana | Sonipat,Haryana,Sonipat,25245.46,210251105,1337266,157.22,1200.73,18.15,3,Metro & Tier-1 Powerhouses
+Haryana | Nuh,Haryana,Nuh,25028.89,211001625,858037,245.91,1186.19,13.71,3,Metro & Tier-1 Powerhouses
+Tamil Nadu | Salem,Tamil Nadu,Salem,25016.24,170706702,1763372,96.81,1465.45,12.4,1,Mature Steady Markets
+Rajasthan | Dausa,Rajasthan,Dausa,25000.18,214553090,876805,244.7,1165.22,8.53,3,Metro & Tier-1 Powerhouses
+Rajasthan | Barmer,Rajasthan,Barmer,24981.61,188153376,868007,216.76,1327.73,11.96,3,Metro & Tier-1 Powerhouses
+Chhattisgarh | Durg,Chhattisgarh,Durg,24937.2,244592881,1150479,212.6,1019.54,13.8,3,Metro & Tier-1 Powerhouses
+Rajasthan | Deedwana Kuchaman,Rajasthan,Deedwana Kuchaman,24859.52,159402540,871497,182.91,1559.54,9.26,3,Metro & Tier-1 Powerhouses
+Maharashtra | Chandrapur,Maharashtra,Chandrapur,24820.06,215871213,1141464,189.12,1149.76,23.4,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Muzaffarnagar,Uttar Pradesh,Muzaffarnagar,24617.01,203236213,1259729,161.33,1211.25,15.54,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Azamgarh,Uttar Pradesh,Azamgarh,24457.29,213078709,1681167,126.74,1147.81,17.94,3,Metro & Tier-1 Powerhouses
+Bihar | Sitamarhi,Bihar,Sitamarhi,24431.03,195637074,1218209,160.59,1248.79,17.17,3,Metro & Tier-1 Powerhouses
+Bihar | Gopalganj,Bihar,Gopalganj,24402.7,205817177,1098808,187.31,1185.65,17.46,3,Metro & Tier-1 Powerhouses
+Karnataka | Koppal,Karnataka,Koppal,24318.83,198918088,722414,275.35,1222.55,10.78,3,Metro & Tier-1 Powerhouses
+Gujarat | Vadodara,Gujarat,Vadodara,24263.32,251496865,2202693,114.18,964.76,14.34,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Kushinagar,Uttar Pradesh,Kushinagar,24255.8,213835281,1386079,154.27,1134.32,15.96,3,Metro & Tier-1 Powerhouses
+Maharashtra | Akola,Maharashtra,Akola,24222.44,208662374,987281,211.35,1160.84,26.21,3,Metro & Tier-1 Powerhouses
+Haryana | Palwal,Haryana,Palwal,23988.41,200169998,797664,250.95,1198.4,19.63,3,Metro & Tier-1 Powerhouses
+Karnataka | Vijayanagara,Karnataka,Vijayanagara,23949.9,198031102,697767,283.81,1209.4,11.73,3,Metro & Tier-1 Powerhouses
+Rajasthan | Chittorgarh,Rajasthan,Chittorgarh,23503.27,188647929,881264,214.07,1245.88,11.88,3,Metro & Tier-1 Powerhouses
+Telangana | Kamareddy,Telangana,Kamareddy,23462.3,149739593,498746,300.23,1566.87,22.83,3,Metro & Tier-1 Powerhouses
+Jharkhand | Palamu,Jharkhand,Palamu,23408.7,198879592,872834,227.86,1177.03,17.58,3,Metro & Tier-1 Powerhouses
+Rajasthan | Hanumangarh,Rajasthan,Hanumangarh,23344.39,152337329,945946,161.04,1532.41,10.57,3,Metro & Tier-1 Powerhouses
+Odisha | Kendujhar,Odisha,Kendujhar,23325.39,207755237,863006,240.73,1122.73,13.69,3,Metro & Tier-1 Powerhouses
+Jharkhand | Giridih,Jharkhand,Giridih,23290.29,197500433,1062615,185.86,1179.25,19.78,3,Metro & Tier-1 Powerhouses
+Tamil Nadu | Tiruppur,Tamil Nadu,Tiruppur,23262.0,244377594,2018773,121.05,951.89,11.1,2,Hyper-Growth Tier-2/3 Hubs
+Bihar | Aurangabad,Bihar,Aurangabad,23259.19,196105880,995686,196.96,1186.05,17.48,3,Metro & Tier-1 Powerhouses
+Haryana | Hisar,Haryana,Hisar,23239.77,135217988,1127535,119.92,1718.69,14.61,1,Mature Steady Markets
+Rajasthan | Khairthal Tijara,Rajasthan,Khairthal Tijara,23137.95,224630510,940761,238.78,1030.05,13.94,3,Metro & Tier-1 Powerhouses
+Karnataka | Chikkamagaluru,Karnataka,Chikkamagaluru,23109.77,167176388,675439,247.51,1382.36,16.01,3,Metro & Tier-1 Powerhouses
+Gujarat | Kachchh,Gujarat,Kachchh,23063.6,227120310,1507864,150.62,1015.48,18.85,3,Metro & Tier-1 Powerhouses
+Rajasthan | Nagaur,Rajasthan,Nagaur,22953.46,149904667,881192,170.12,1531.2,7.5,3,Metro & Tier-1 Powerhouses
+Jharkhand | Bokaro,Jharkhand,Bokaro,22817.25,235878727,1045849,225.54,967.33,18.08,3,Metro & Tier-1 Powerhouses
+Chhattisgarh | Bilaspur,Chhattisgarh,Bilaspur,22790.56,241402520,1094847,220.49,944.09,15.68,3,Metro & Tier-1 Powerhouses
+Odisha | Angul,Odisha,Angul,22664.67,198130153,760844,260.41,1143.93,16.15,3,Metro & Tier-1 Powerhouses
+Uttarakhand | Haridwar,Uttarakhand,Haridwar,22647.02,224933530,1508985,149.06,1006.83,14.91,3,Metro & Tier-1 Powerhouses
+Telangana | Nagarkurnool,Telangana,Nagarkurnool,22469.77,143373513,412595,347.49,1567.22,21.56,3,Metro & Tier-1 Powerhouses
+Jharkhand | East Singhbhum,Jharkhand,East Singhbhum,22359.39,228692678,1272271,179.75,977.7,15.67,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Jhansi,Uttar Pradesh,Jhansi,22350.03,183038277,1127343,162.36,1221.06,12.66,3,Metro & Tier-1 Powerhouses
+Bihar | Bhojpur,Bihar,Bhojpur,22110.24,169084630,1035757,163.25,1307.64,17.62,3,Metro & Tier-1 Powerhouses
+Kerala | Ernakulam,Kerala,Ernakulam,22024.23,213092269,2553505,83.45,1033.55,12.42,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Sagar,Madhya Pradesh,Sagar,21980.67,187687589,1149850,163.23,1171.13,19.9,3,Metro & Tier-1 Powerhouses
+Bihar | Nalanda,Bihar,Nalanda,21827.67,164508125,1207639,136.22,1326.84,15.1,3,Metro & Tier-1 Powerhouses
+Odisha | Bhadrak,Odisha,Bhadrak,21784.28,197642215,794945,248.62,1102.21,22.11,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Ballia,Uttar Pradesh,Ballia,21734.6,188916369,1234052,153.09,1150.49,17.71,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Jaunpur,Uttar Pradesh,Jaunpur,21657.79,184018570,1605649,114.61,1176.94,15.86,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Ghazipur,Uttar Pradesh,Ghazipur,21584.23,183548574,1344805,136.49,1175.94,18.18,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Deoria,Uttar Pradesh,Deoria,21548.71,190932468,1276888,149.53,1128.6,17.5,3,Metro & Tier-1 Powerhouses
+Gujarat | Banaskantha,Gujarat,Banaskantha,20997.1,148784321,918807,161.93,1411.24,20.26,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Khargone,Madhya Pradesh,Khargone,20889.65,163123235,795653,205.02,1280.61,21.3,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Ratlam,Madhya Pradesh,Ratlam,20816.5,172364151,852323,202.23,1207.7,18.95,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Morena,Madhya Pradesh,Morena,20759.73,162724651,883974,184.08,1275.76,20.67,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Sehore,Madhya Pradesh,Sehore,20671.46,181525447,747638,242.8,1138.76,18.18,3,Metro & Tier-1 Powerhouses
+Telangana | Medak,Telangana,Medak,20511.52,147250890,452561,325.37,1392.96,23.03,3,Metro & Tier-1 Powerhouses
+West Bengal | Cooch Behar,West Bengal,Cooch Behar,20465.66,180600088,1223787,147.57,1133.2,20.53,3,Metro & Tier-1 Powerhouses
+Bihar | Supaul,Bihar,Supaul,20439.38,187461083,936778,200.11,1090.33,19.19,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Bijnor,Uttar Pradesh,Bijnor,20424.43,164827860,1286473,128.12,1239.14,14.23,3,Metro & Tier-1 Powerhouses
+Karnataka | Haveri,Karnataka,Haveri,20317.68,166662926,737809,225.89,1219.09,11.67,3,Metro & Tier-1 Powerhouses
+Rajasthan | Jalore,Rajasthan,Jalore,20310.07,133238219,840748,158.48,1524.34,13.91,3,Metro & Tier-1 Powerhouses
+Telangana | Vikarabad,Telangana,Vikarabad,20207.62,150801790,479805,314.3,1340.01,22.45,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Rajgarh,Madhya Pradesh,Rajgarh,20124.97,171600345,752285,228.11,1172.78,17.68,3,Metro & Tier-1 Powerhouses
+Telangana | Nirmal,Telangana,Nirmal,20002.69,121365042,404313,300.18,1648.14,24.23,3,Metro & Tier-1 Powerhouses
+Haryana | Jhajjar,Haryana,Jhajjar,19898.99,153563149,876045,175.29,1295.82,16.81,3,Metro & Tier-1 Powerhouses
+Gujarat | Vav Tharad,Gujarat,Vav Tharad,19736.89,148246897,782868,189.36,1331.35,25.17,3,Metro & Tier-1 Powerhouses
+Gujarat | Mahesana,Gujarat,Mahesana,19689.96,144239450,1174556,122.8,1365.09,17.27,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Rewa,Madhya Pradesh,Rewa,19178.4,166042979,841494,197.32,1155.03,15.91,3,Metro & Tier-1 Powerhouses
+West Bengal | Darjeeling,West Bengal,Darjeeling,18951.42,153896416,1141432,134.83,1231.44,18.96,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Mandsaur,Madhya Pradesh,Mandsaur,18865.21,157283914,784250,200.55,1199.44,17.84,3,Metro & Tier-1 Powerhouses
+Rajasthan | Beawar,Rajasthan,Beawar,18845.03,141431020,618043,228.84,1332.45,11.67,3,Metro & Tier-1 Powerhouses
+Telangana | Mahabubabad,Telangana,Mahabubabad,18779.35,127322209,369170,344.89,1474.95,26.4,3,Metro & Tier-1 Powerhouses
+Gujarat | Bharuch,Gujarat,Bharuch,18779.04,206819081,1267931,163.12,907.99,18.63,2,Hyper-Growth Tier-2/3 Hubs
+Gujarat | Valsad,Gujarat,Valsad,18583.73,196659583,1252554,157.01,944.97,18.39,2,Hyper-Growth Tier-2/3 Hubs
+Karnataka | Yadgiri,Karnataka,Yadgiri,18542.25,130802062,499174,262.04,1417.58,14.38,3,Metro & Tier-1 Powerhouses
+Rajasthan | Tonk,Rajasthan,Tonk,18465.23,155482435,687950,226.01,1187.61,10.08,3,Metro & Tier-1 Powerhouses
+Telangana | Rajanna Sircilla,Telangana,Rajanna Sircilla,18402.92,109304232,339164,322.28,1683.64,27.19,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Firozabad,Uttar Pradesh,Firozabad,18275.88,153159541,1184617,129.29,1193.26,18.49,3,Metro & Tier-1 Powerhouses
+West Bengal | Bankura,West Bengal,Bankura,18261.0,149169310,1239593,120.34,1224.18,16.85,3,Metro & Tier-1 Powerhouses
+Tamil Nadu | Dharmapuri,Tamil Nadu,Dharmapuri,18073.8,113973816,750112,151.94,1585.79,17.75,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Chhindwara,Madhya Pradesh,Chhindwara,17837.07,158401860,882155,179.56,1126.06,14.78,3,Metro & Tier-1 Powerhouses
+Bihar | Madhepura,Bihar,Madhepura,17831.44,157351168,824589,190.82,1133.23,17.68,3,Metro & Tier-1 Powerhouses
+Rajasthan | Pali,Rajasthan,Pali,17648.53,139029855,828897,167.73,1269.41,12.72,3,Metro & Tier-1 Powerhouses
+Telangana | Jangaon,Telangana,Jangaon,17543.36,111497948,294708,378.33,1573.42,18.27,3,Metro & Tier-1 Powerhouses
+Karnataka | Uttara Kannada,Karnataka,Uttara Kannada,17444.24,143627905,757002,189.73,1214.54,15.23,3,Metro & Tier-1 Powerhouses
+Bihar | Saharsa,Bihar,Saharsa,17420.1,158106073,822035,192.33,1101.8,18.39,3,Metro & Tier-1 Powerhouses
+Bihar | Nawada,Bihar,Nawada,17407.15,130890919,836648,156.45,1329.9,17.71,3,Metro & Tier-1 Powerhouses
+Haryana | Panipat,Haryana,Panipat,17202.33,141624538,1103364,128.36,1214.64,16.86,3,Metro & Tier-1 Powerhouses
+Tamil Nadu | Madurai,Tamil Nadu,Madurai,17152.43,112494680,1497042,75.14,1524.73,15.06,1,Mature Steady Markets
+Gujarat | Rajkot,Gujarat,Rajkot,17126.52,129088952,1844876,69.97,1326.72,16.82,1,Mature Steady Markets
+Odisha | Jagatsinghpur,Odisha,Jagatsinghpur,17044.07,169059556,606478,278.76,1008.17,18.25,3,Metro & Tier-1 Powerhouses
+Odisha | Sambalpur,Odisha,Sambalpur,17029.51,170354385,679444,250.73,999.65,18.32,3,Metro & Tier-1 Powerhouses
+Odisha | Kendrapara,Odisha,Kendrapara,17018.12,155077243,628446,246.76,1097.4,21.54,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Rampur,Uttar Pradesh,Rampur,16972.67,130153754,865393,150.4,1304.05,19.77,3,Metro & Tier-1 Powerhouses
+Odisha | Mayurbhanj,Odisha,Mayurbhanj,16825.05,149437977,897828,166.44,1125.89,14.53,3,Metro & Tier-1 Powerhouses
+Uttarakhand | Udham Singh Nagar,Uttarakhand,Udham Singh Nagar,16784.99,158728238,1249806,127.0,1057.47,13.87,2,Hyper-Growth Tier-2/3 Hubs
+Bihar | Kishanganj,Bihar,Kishanganj,16647.79,129932597,687898,188.88,1281.26,17.93,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Raisen,Madhya Pradesh,Raisen,16622.03,155025915,724170,214.07,1072.21,21.89,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Ayodhya,Uttar Pradesh,Ayodhya,16617.22,141747661,1018415,139.18,1172.31,14.11,3,Metro & Tier-1 Powerhouses
+Punjab | Sas Nagar,Punjab,Sas Nagar,16468.27,169773454,1555702,109.13,970.01,16.51,2,Hyper-Growth Tier-2/3 Hubs
+Odisha | Koraput,Odisha,Koraput,16346.89,138425778,613733,225.55,1180.91,16.89,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Narmadapuram,Madhya Pradesh,Narmadapuram,16341.83,144521240,723310,199.81,1130.76,21.56,3,Metro & Tier-1 Powerhouses
+Haryana | Rohtak,Haryana,Rohtak,16306.35,108142521,785846,137.61,1507.86,13.18,1,Mature Steady Markets
+Rajasthan | Bharatpur,Rajasthan,Bharatpur,16250.22,147956114,709955,208.4,1098.31,11.05,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Shivpuri,Madhya Pradesh,Shivpuri,16222.92,143329005,811527,176.62,1131.87,20.79,3,Metro & Tier-1 Powerhouses
+Goa | North Goa,Goa,North Goa,16026.13,120842241,722076,167.35,1326.2,19.95,3,Metro & Tier-1 Powerhouses
+Rajasthan | Balotra,Rajasthan,Balotra,15940.44,117849295,558892,210.86,1352.61,10.59,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Vidisha,Madhya Pradesh,Vidisha,15934.03,132758525,737979,179.89,1200.23,23.03,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Amroha,Uttar Pradesh,Amroha,15828.25,130251333,769082,169.36,1215.21,14.02,3,Metro & Tier-1 Powerhouses
+Jammu & Kashmir | Jammu,Jammu & Kashmir,Jammu,15805.73,138049221,1077002,128.18,1144.93,16.68,3,Metro & Tier-1 Powerhouses
+Odisha | Balangir,Odisha,Balangir,15700.3,139463016,708006,196.98,1125.77,17.86,3,Metro & Tier-1 Powerhouses
+Rajasthan | Jaisalmer,Rajasthan,Jaisalmer,15684.68,123501489,493547,250.23,1270.0,16.45,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Hapur,Uttar Pradesh,Hapur,15592.58,136031881,755084,180.15,1146.24,17.76,3,Metro & Tier-1 Powerhouses
+Haryana | Mahendragarh,Haryana,Mahendragarh,15533.4,100053319,549446,182.1,1552.51,10.89,3,Metro & Tier-1 Powerhouses
+Karnataka | Udupi,Karnataka,Udupi,15533.02,125020785,782137,159.85,1242.43,17.83,3,Metro & Tier-1 Powerhouses
+Telangana | Wanaparthy,Telangana,Wanaparthy,15475.37,101645207,291788,348.35,1522.49,22.85,3,Metro & Tier-1 Powerhouses
+Odisha | Dhenkanal,Odisha,Dhenkanal,15334.72,143160894,574091,249.37,1071.15,18.28,3,Metro & Tier-1 Powerhouses
+Odisha | Kalahandi,Odisha,Kalahandi,15256.17,141879022,681984,208.04,1075.29,21.79,3,Metro & Tier-1 Powerhouses
+Maharashtra | Washim,Maharashtra,Washim,15145.61,131227717,585804,224.01,1154.15,28.22,3,Metro & Tier-1 Powerhouses
+Rajasthan | Karauli,Rajasthan,Karauli,15083.95,138064126,605403,228.05,1092.53,10.95,3,Metro & Tier-1 Powerhouses
+Chhattisgarh | Raigarh,Chhattisgarh,Raigarh,15070.25,153684150,721223,213.09,980.6,17.75,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Balaghat,Madhya Pradesh,Balaghat,14961.61,130755248,737407,177.32,1144.25,15.52,3,Metro & Tier-1 Powerhouses
+Rajasthan | Sawai Madhopur,Rajasthan,Sawai Madhopur,14958.49,130167542,691207,188.32,1149.17,6.59,3,Metro & Tier-1 Powerhouses
+Jharkhand | Garhwa,Jharkhand,Garhwa,14902.14,122899141,555347,221.3,1212.55,16.66,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Singrauli,Madhya Pradesh,Singrauli,14793.35,144515563,598461,241.48,1023.65,13.49,3,Metro & Tier-1 Powerhouses
+Bihar | Khagaria,Bihar,Khagaria,14751.01,120575472,646160,186.6,1223.38,21.08,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Basti,Uttar Pradesh,Basti,14688.36,126222058,920943,137.06,1163.69,13.21,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Satna,Madhya Pradesh,Satna,14615.24,128048008,704595,181.73,1141.39,16.51,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Chhatarpur,Madhya Pradesh,Chhatarpur,14595.63,130680548,836724,156.18,1116.89,21.53,3,Metro & Tier-1 Powerhouses
+Assam | Barpeta,Assam,Barpeta,14571.29,136929936,677950,201.98,1064.14,22.75,3,Metro & Tier-1 Powerhouses
+Maharashtra | Hingoli,Maharashtra,Hingoli,14512.19,121694200,538841,225.84,1192.51,28.79,3,Metro & Tier-1 Powerhouses
+Rajasthan | Jhalawar,Rajasthan,Jhalawar,14511.77,124153472,664353,186.88,1168.86,10.11,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Guna,Madhya Pradesh,Guna,14511.22,133303425,711351,187.39,1088.59,19.14,3,Metro & Tier-1 Powerhouses
+Haryana | Bhiwani,Haryana,Bhiwani,14282.69,81392807,635555,128.07,1754.78,11.99,1,Mature Steady Markets
+Uttar Pradesh | Sambhal,Uttar Pradesh,Sambhal,14257.73,114149674,819195,139.34,1249.04,17.41,3,Metro & Tier-1 Powerhouses
+Andhra Pradesh | Parvathipuram Manyam,Andhra Pradesh,Parvathipuram Manyam,14207.27,93280729,362705,257.18,1523.07,16.73,3,Metro & Tier-1 Powerhouses
+Chhattisgarh | Korba,Chhattisgarh,Korba,14094.42,152747186,681484,224.14,922.73,16.36,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Betul,Madhya Pradesh,Betul,14014.55,118452959,729487,162.38,1183.13,17.2,3,Metro & Tier-1 Powerhouses
+Karnataka | Gadag,Karnataka,Gadag,14009.68,119982719,513867,233.49,1167.64,10.96,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Siddharthnagar,Uttar Pradesh,Siddharthnagar,13968.03,119865553,830190,144.38,1165.31,14.85,3,Metro & Tier-1 Powerhouses
+Telangana | Jogulamba Gadwal,Telangana,Jogulamba Gadwal,13947.86,92632750,301478,307.26,1505.72,19.14,3,Metro & Tier-1 Powerhouses
+Odisha | Bargarh,Odisha,Bargarh,13756.28,112081163,599124,187.08,1227.35,22.89,3,Metro & Tier-1 Powerhouses
+Kerala | Malappuram,Kerala,Malappuram,13745.49,126621935,1843408,68.69,1085.55,17.78,2,Hyper-Growth Tier-2/3 Hubs
+Kerala | Kozhikode,Kerala,Kozhikode,13721.65,125804917,1633191,77.03,1090.71,15.04,2,Hyper-Growth Tier-2/3 Hubs
+Punjab | Amritsar,Punjab,Amritsar,13703.06,83696695,1219911,68.61,1637.23,19.04,1,Mature Steady Markets
+Uttar Pradesh | Budaun,Uttar Pradesh,Budaun,13664.06,114838050,1034114,111.05,1189.85,18.53,2,Hyper-Growth Tier-2/3 Hubs
+Karnataka | Chamarajanagar,Karnataka,Chamarajanagar,13658.81,95571370,429301,222.62,1429.17,16.69,3,Metro & Tier-1 Powerhouses
+Bihar | Jamui,Bihar,Jamui,13567.16,119109577,673203,176.93,1139.05,19.53,3,Metro & Tier-1 Powerhouses
+Telangana | Adilabad,Telangana,Adilabad,13512.37,103715819,374803,276.72,1302.83,17.62,3,Metro & Tier-1 Powerhouses
+Bihar | Buxar,Bihar,Buxar,13491.0,102679656,656368,156.44,1313.89,18.11,3,Metro & Tier-1 Powerhouses
+Haryana | Karnal,Haryana,Karnal,13481.62,94846135,925983,102.43,1421.42,15.92,1,Mature Steady Markets
+Uttar Pradesh | Pratapgarh,Uttar Pradesh,Pratapgarh,13461.94,119789952,1007843,118.86,1123.8,14.2,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Khandwa,Madhya Pradesh,Khandwa,13382.43,126424014,590699,214.02,1058.54,20.91,3,Metro & Tier-1 Powerhouses
+Maharashtra | Nandurbar,Maharashtra,Nandurbar,13372.86,112104564,656167,170.85,1192.89,22.29,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Bhind,Madhya Pradesh,Bhind,13358.33,104673541,653769,160.11,1276.19,20.03,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Gonda,Uttar Pradesh,Gonda,13356.21,110173147,1036138,106.33,1212.29,13.74,2,Hyper-Growth Tier-2/3 Hubs
+Jharkhand | Ramgarh,Jharkhand,Ramgarh,13322.54,124079441,535722,231.61,1073.71,17.29,3,Metro & Tier-1 Powerhouses
+Maharashtra | Wardha,Maharashtra,Wardha,13247.62,111517802,665734,167.51,1187.94,20.9,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Sonbhadra,Uttar Pradesh,Sonbhadra,13184.78,117004252,746953,156.64,1126.86,15.34,3,Metro & Tier-1 Powerhouses
+Kerala | Thiruvananthapuram,Kerala,Thiruvananthapuram,13039.35,113102527,1697961,66.61,1152.88,13.5,1,Mature Steady Markets
+Madhya Pradesh | Shajapur,Madhya Pradesh,Shajapur,12989.71,109899403,474022,231.84,1181.96,17.87,3,Metro & Tier-1 Powerhouses
+Tamil Nadu | Dindigul,Tamil Nadu,Dindigul,12923.15,85072544,932728,91.21,1519.07,16.35,1,Mature Steady Markets
+Jharkhand | Deoghar,Jharkhand,Deoghar,12805.54,120800471,942391,128.19,1060.06,26.44,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Tiruchirappalli,Tamil Nadu,Tiruchirappalli,12763.86,89674940,1242623,72.17,1423.35,13.71,1,Mature Steady Markets
+Rajasthan | Rajsamand,Rajasthan,Rajsamand,12650.49,98264157,575113,170.86,1287.4,10.33,3,Metro & Tier-1 Powerhouses
+Assam | Dhubri,Assam,Dhubri,12634.97,120709815,704855,171.25,1046.72,17.49,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Chandauli,Uttar Pradesh,Chandauli,12606.35,103410951,804893,128.48,1219.05,19.69,2,Hyper-Growth Tier-2/3 Hubs
+West Bengal | Purulia,West Bengal,Purulia,12571.66,129849446,998795,130.01,968.17,18.02,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Maharajganj,Uttar Pradesh,Maharajganj,12536.99,108203970,969112,111.65,1158.64,14.66,2,Hyper-Growth Tier-2/3 Hubs
+Odisha | Rayagada,Odisha,Rayagada,12528.65,110223993,456600,241.4,1136.65,17.3,3,Metro & Tier-1 Powerhouses
+West Bengal | Jalpaiguri,West Bengal,Jalpaiguri,12519.37,111431388,849446,131.18,1123.5,16.96,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Shamli,Uttar Pradesh,Shamli,12464.94,102620140,602945,170.2,1214.67,19.04,3,Metro & Tier-1 Powerhouses
+Tamil Nadu | Vellore,Tamil Nadu,Vellore,12456.83,93992615,821262,114.45,1325.3,12.06,1,Mature Steady Markets
+Madhya Pradesh | Seoni,Madhya Pradesh,Seoni,12431.95,107671654,609996,176.51,1154.62,14.73,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Shahjahanpur,Uttar Pradesh,Shahjahanpur,12366.13,98417887,1011541,97.3,1256.49,19.03,2,Hyper-Growth Tier-2/3 Hubs
+Rajasthan | Dholpur,Rajasthan,Dholpur,12170.67,110820859,523190,211.82,1098.23,13.18,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Mainpuri,Uttar Pradesh,Mainpuri,12156.89,112423463,796709,141.11,1081.35,18.2,2,Hyper-Growth Tier-2/3 Hubs
+Rajasthan | Bundi,Rajasthan,Bundi,12140.81,104865347,528271,198.51,1157.75,13.22,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Bagpat,Uttar Pradesh,Bagpat,12117.13,101003024,591733,170.69,1199.68,18.59,3,Metro & Tier-1 Powerhouses
+Jharkhand | Koderma,Jharkhand,Koderma,12071.18,92836815,370924,250.29,1300.26,15.53,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Mau,Uttar Pradesh,Mau,12055.94,110522523,846977,130.49,1090.81,19.1,2,Hyper-Growth Tier-2/3 Hubs
+Telangana | Narayanpet,Telangana,Narayanpet,12032.57,74690309,248512,300.55,1611.0,26.86,3,Metro & Tier-1 Powerhouses
+Maharashtra | Gondia,Maharashtra,Gondia,11979.23,89802533,589555,152.32,1333.95,18.51,3,Metro & Tier-1 Powerhouses
+Maharashtra | Bhandara,Maharashtra,Bhandara,11957.15,83028111,539714,153.84,1440.13,22.41,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Lakhimpur Kheri,Uttar Pradesh,Lakhimpur Kheri,11953.59,111074360,1504025,73.85,1076.18,15.56,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Barabanki,Uttar Pradesh,Barabanki,11921.45,107979424,1048794,102.96,1104.05,16.73,2,Hyper-Growth Tier-2/3 Hubs
+Telangana | Jayashankar Bhupalpally,Telangana,Jayashankar Bhupalpally,11893.65,79616455,211902,375.72,1493.87,18.82,3,Metro & Tier-1 Powerhouses
+Tamil Nadu | Kancheepuram,Tamil Nadu,Kancheepuram,11888.93,122647681,1058912,115.82,969.36,17.36,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Sultanpur,Uttar Pradesh,Sultanpur,11841.76,100780678,844802,119.3,1175.0,16.1,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Etawah,Uttar Pradesh,Etawah,11830.62,103714257,692265,149.82,1140.69,18.3,2,Hyper-Growth Tier-2/3 Hubs
+Gujarat | Patan,Gujarat,Patan,11786.7,87320923,655094,133.3,1349.81,20.13,3,Metro & Tier-1 Powerhouses
+Bihar | Kaimur,Bihar,Kaimur,11743.42,89194236,585303,152.39,1316.61,18.0,3,Metro & Tier-1 Powerhouses
+Tamil Nadu | Erode,Tamil Nadu,Erode,11713.91,95473008,1135364,84.09,1226.93,11.79,1,Mature Steady Markets
+Odisha | Jharsuguda,Odisha,Jharsuguda,11513.06,114605075,431562,265.56,1004.59,15.9,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Mirzapur,Uttar Pradesh,Mirzapur,11475.52,89800128,875729,102.54,1277.9,14.76,1,Mature Steady Markets
+Uttar Pradesh | Ambedkar Nagar,Uttar Pradesh,Ambedkar Nagar,11442.23,98868498,820870,120.44,1157.32,19.19,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Hardoi,Uttar Pradesh,Hardoi,11402.23,93438368,1096682,85.2,1220.29,15.26,1,Mature Steady Markets
+Madhya Pradesh | Neemuch,Madhya Pradesh,Neemuch,11253.99,93225786,487255,191.33,1207.18,17.71,3,Metro & Tier-1 Powerhouses
+Tamil Nadu | Tiruvannamalai,Tamil Nadu,Tiruvannamalai,11207.11,85566646,883828,96.81,1309.75,15.11,1,Mature Steady Markets
+Uttar Pradesh | Hathras,Uttar Pradesh,Hathras,11177.18,96872041,650495,148.92,1153.81,17.93,2,Hyper-Growth Tier-2/3 Hubs
+Odisha | Nayagarh,Odisha,Nayagarh,11120.38,95637943,413390,231.35,1162.76,18.75,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Narsinghpur,Madhya Pradesh,Narsinghpur,11007.25,92606684,559578,165.49,1188.6,17.49,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Katni,Madhya Pradesh,Katni,10977.87,95397956,595770,160.13,1150.74,17.78,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Jalaun,Uttar Pradesh,Jalaun,10977.17,93302129,682487,136.71,1176.52,15.28,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Sitapur,Uttar Pradesh,Sitapur,10938.12,97626762,1345990,72.53,1120.4,16.75,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Barwani,Madhya Pradesh,Barwani,10919.98,92003962,514005,178.99,1186.9,20.92,3,Metro & Tier-1 Powerhouses
+Rajasthan | Phalodi,Rajasthan,Phalodi,10910.25,75430248,413508,182.42,1446.4,11.83,3,Metro & Tier-1 Powerhouses
+Assam | Nagaon,Assam,Nagaon,10823.2,101208044,813711,124.38,1069.4,19.59,2,Hyper-Growth Tier-2/3 Hubs
+Rajasthan | Baran,Rajasthan,Baran,10797.9,92446192,543301,170.16,1168.02,13.23,3,Metro & Tier-1 Powerhouses
+Bihar | Banka,Bihar,Banka,10794.91,94534367,653038,144.76,1141.9,19.26,2,Hyper-Growth Tier-2/3 Hubs
+West Bengal | Dakshin Dinajpur,West Bengal,Dakshin Dinajpur,10637.71,74584024,651149,114.54,1426.27,23.95,1,Mature Steady Markets
+Uttar Pradesh | Etah,Uttar Pradesh,Etah,10579.59,98054954,678168,144.59,1078.95,20.97,2,Hyper-Growth Tier-2/3 Hubs
+Gujarat | Sabarkantha,Gujarat,Sabarkantha,10570.83,84435957,637937,132.36,1251.93,17.02,2,Hyper-Growth Tier-2/3 Hubs
+Rajasthan | Sirohi,Rajasthan,Sirohi,10476.36,84947119,498425,170.43,1233.28,11.97,3,Metro & Tier-1 Powerhouses
+Haryana | Sirsa,Haryana,Sirsa,10426.24,62029496,690128,89.88,1680.85,17.89,1,Mature Steady Markets
+Andhra Pradesh | Alluri Sitharama Raju,Andhra Pradesh,Alluri Sitharama Raju,10411.34,80864432,411684,196.42,1287.51,20.97,3,Metro & Tier-1 Powerhouses
+Kerala | Kannur,Kerala,Kannur,10407.16,87640059,1167934,75.04,1187.49,20.85,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Bahraich,Uttar Pradesh,Bahraich,10405.85,87263406,1023926,85.22,1192.46,14.97,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Tirupathur,Tamil Nadu,Tirupathur,10370.88,76234118,611315,124.71,1360.4,14.54,1,Mature Steady Markets
+Uttar Pradesh | Raebareli,Uttar Pradesh,Raebareli,10357.26,87266056,823720,105.94,1186.86,14.55,2,Hyper-Growth Tier-2/3 Hubs
+Punjab | Jalandhar,Punjab,Jalandhar,10305.82,77071481,1105536,69.71,1337.18,18.54,1,Mature Steady Markets
+Jharkhand | Chatra,Jharkhand,Chatra,10213.14,77080302,388651,198.33,1325.0,15.06,3,Metro & Tier-1 Powerhouses
+Tamil Nadu | Namakkal,Tamil Nadu,Namakkal,10045.75,67913298,828052,82.02,1479.2,11.89,1,Mature Steady Markets
+Gujarat | Morbi,Gujarat,Morbi,9928.24,69008238,731697,94.31,1438.7,14.94,1,Mature Steady Markets
+Uttar Pradesh | Farrukhabad,Uttar Pradesh,Farrukhabad,9920.07,89487426,715245,125.11,1108.54,15.3,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Kamrup,Assam,Kamrup,9854.7,100282034,710607,141.12,982.7,25.52,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Cachar,Assam,Cachar,9849.86,95880338,716688,133.78,1027.31,20.05,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Shahdol,Madhya Pradesh,Shahdol,9757.89,91645272,493527,185.69,1064.75,15.2,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Goalpara,Assam,Goalpara,9734.78,87832096,482678,181.97,1108.34,23.69,2,Hyper-Growth Tier-2/3 Hubs
+Jharkhand | Sahibganj,Jharkhand,Sahibganj,9701.38,79562276,417642,190.5,1219.34,22.43,3,Metro & Tier-1 Powerhouses
+Bihar | Munger,Bihar,Munger,9699.89,84322506,553098,152.45,1150.33,16.44,2,Hyper-Growth Tier-2/3 Hubs
+West Bengal | Alipurduar,West Bengal,Alipurduar,9580.5,83380689,621707,134.12,1149.01,16.27,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Sidhi,Madhya Pradesh,Sidhi,9532.11,83220444,443502,187.64,1145.4,18.32,2,Hyper-Growth Tier-2/3 Hubs
+Chandigarh | Chandigarh,Chandigarh,Chandigarh,9527.72,92734820,829123,111.85,1027.42,15.55,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Kanniyakumari,Tamil Nadu,Kanniyakumari,9450.49,57302331,775938,73.85,1649.23,18.59,1,Mature Steady Markets
+Haryana | Jind,Haryana,Jind,9447.83,48405397,607617,79.66,1951.81,15.21,1,Mature Steady Markets
+Goa | South Goa,Goa,South Goa,9430.47,88637991,625864,141.63,1063.93,13.35,2,Hyper-Growth Tier-2/3 Hubs
+Karnataka | Kodagu,Karnataka,Kodagu,9362.46,65458960,353712,185.06,1430.28,14.22,3,Metro & Tier-1 Powerhouses
+Maharashtra | Gadchiroli,Maharashtra,Gadchiroli,9346.71,73811587,463308,159.31,1266.29,24.61,2,Hyper-Growth Tier-2/3 Hubs
+Rajasthan | Banswara,Rajasthan,Banswara,9292.2,87087006,639092,136.27,1067.0,16.07,2,Hyper-Growth Tier-2/3 Hubs
+Odisha | Nabarangpur,Odisha,Nabarangpur,9233.79,73245053,430505,170.14,1260.67,17.85,3,Metro & Tier-1 Powerhouses
+Uttar Pradesh | Unnao,Uttar Pradesh,Unnao,9218.96,72517041,887209,81.74,1271.28,14.41,1,Mature Steady Markets
+Chhattisgarh | Surguja,Chhattisgarh,Surguja,9195.9,88348520,481559,183.46,1040.87,15.84,2,Hyper-Growth Tier-2/3 Hubs
+Gujarat | Bhavnagar,Gujarat,Bhavnagar,9130.22,58523100,956952,61.16,1560.11,11.78,1,Mature Steady Markets
+Uttar Pradesh | Kanpur Dehat,Uttar Pradesh,Kanpur Dehat,9094.46,72267770,582286,124.11,1258.44,18.7,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Mahasamund,Chhattisgarh,Mahasamund,9073.99,73783038,450856,163.65,1229.82,13.83,2,Hyper-Growth Tier-2/3 Hubs
+Kerala | Thrissur,Kerala,Thrissur,8932.0,77005318,1327312,58.02,1159.92,15.45,1,Mature Steady Markets
+Tamil Nadu | Cuddalore,Tamil Nadu,Cuddalore,8916.97,64048047,979145,65.41,1392.23,12.77,1,Mature Steady Markets
+Rajasthan | Deeg,Rajasthan,Deeg,8866.24,80618264,666700,120.92,1099.78,11.69,2,Hyper-Growth Tier-2/3 Hubs
+Punjab | Patiala,Punjab,Patiala,8834.03,65580256,962685,68.12,1347.06,17.56,1,Mature Steady Markets
+Uttar Pradesh | Pilibhit,Uttar Pradesh,Pilibhit,8823.37,74346572,681943,109.02,1186.79,21.6,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Fatehpur,Uttar Pradesh,Fatehpur,8745.49,68724327,730302,94.1,1272.55,18.75,1,Mature Steady Markets
+Jammu & Kashmir | Srinagar,Jammu & Kashmir,Srinagar,8715.08,74233344,628879,118.04,1174.01,16.54,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Kannauj,Uttar Pradesh,Kannauj,8687.58,76074009,669253,113.67,1141.99,15.33,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Janjgir Champa,Chhattisgarh,Janjgir Champa,8542.13,84954676,476214,178.4,1005.49,12.71,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Agar Malwa,Madhya Pradesh,Agar Malwa,8490.31,75964106,293677,258.67,1117.67,21.15,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Sant Kabir Nagar,Uttar Pradesh,Sant Kabir Nagar,8417.0,68434373,586802,116.62,1229.94,13.59,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Amethi,Uttar Pradesh,Amethi,8391.17,70273683,553416,126.98,1194.07,19.81,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Auraiya,Uttar Pradesh,Auraiya,8374.06,73701154,544431,135.37,1136.22,17.73,2,Hyper-Growth Tier-2/3 Hubs
+Bihar | Jehanabad,Bihar,Jehanabad,8333.67,71877568,416235,172.69,1159.43,23.31,2,Hyper-Growth Tier-2/3 Hubs
+Jharkhand | Godda,Jharkhand,Godda,8295.74,74069888,458276,161.63,1119.99,21.3,2,Hyper-Growth Tier-2/3 Hubs
+Kerala | Kollam,Kerala,Kollam,8254.19,65130526,1114869,58.42,1267.33,13.56,1,Mature Steady Markets
+Madhya Pradesh | Damoh,Madhya Pradesh,Damoh,8214.93,65895597,495257,133.05,1246.66,19.94,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Tirunelveli,Tamil Nadu,Tirunelveli,8140.37,60286887,722203,83.48,1350.27,19.01,1,Mature Steady Markets
+Uttarakhand | Nainital,Uttarakhand,Nainital,8110.32,73796365,653240,112.97,1099.01,14.98,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Balodabazar Bhatapara,Chhattisgarh,Balodabazar Bhatapara,8089.23,76342730,448499,170.22,1059.59,14.05,2,Hyper-Growth Tier-2/3 Hubs
+Telangana | Kumuram Bheem Asifabad,Telangana,Kumuram Bheem Asifabad,8053.4,65182496,250254,260.47,1235.52,22.22,3,Metro & Tier-1 Powerhouses
+Madhya Pradesh | Burhanpur,Madhya Pradesh,Burhanpur,8003.34,69027447,343006,201.24,1159.44,18.94,2,Hyper-Growth Tier-2/3 Hubs
+Jharkhand | Seraikela Kharsawan,Jharkhand,Seraikela Kharsawan,7927.08,89425811,517394,172.84,886.44,17.51,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Thanjavur,Tamil Nadu,Thanjavur,7904.38,52063831,867508,60.02,1518.21,14.97,1,Mature Steady Markets
+Kerala | Palakkad,Kerala,Palakkad,7889.63,65620817,1136377,57.75,1202.31,16.1,1,Mature Steady Markets
+Bihar | Lakhisarai,Bihar,Lakhisarai,7806.27,63149165,383951,164.47,1236.16,18.64,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Kasganj,Uttar Pradesh,Kasganj,7773.72,70880419,540645,131.1,1096.74,23.44,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Darrang,Assam,Darrang,7770.39,72158784,412727,174.83,1076.85,33.3,2,Hyper-Growth Tier-2/3 Hubs
+Telangana | Mulugu,Telangana,Mulugu,7768.12,51637671,150289,343.59,1504.35,29.32,3,Metro & Tier-1 Powerhouses
+Haryana | Kurukshetra,Haryana,Kurukshetra,7766.49,50514376,557185,90.66,1537.48,15.0,1,Mature Steady Markets
+Madhya Pradesh | Jhabua,Madhya Pradesh,Jhabua,7668.74,68841807,407346,169.0,1113.97,21.87,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Theni,Tamil Nadu,Theni,7579.88,45683774,516798,88.4,1659.21,18.12,1,Mature Steady Markets
+Chhattisgarh | Rajnandgaon,Chhattisgarh,Rajnandgaon,7493.49,65694564,419103,156.75,1140.66,13.44,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Bastar,Chhattisgarh,Bastar,7483.01,67995331,372527,182.52,1100.52,17.81,2,Hyper-Growth Tier-2/3 Hubs
+Gujarat | Surendranagar,Gujarat,Surendranagar,7350.61,48997602,624714,78.43,1500.2,10.73,1,Mature Steady Markets
+Madhya Pradesh | Ashoknagar,Madhya Pradesh,Ashoknagar,7306.45,67743876,382035,177.32,1078.54,22.44,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Kallakurichi,Tamil Nadu,Kallakurichi,7246.14,51397136,541240,94.96,1409.83,17.06,1,Mature Steady Markets
+Uttar Pradesh | Lalitpur,Uttar Pradesh,Lalitpur,7192.18,70422298,501972,140.29,1021.29,15.73,2,Hyper-Growth Tier-2/3 Hubs
+Haryana | Ambala,Haryana,Ambala,7118.32,55438230,650109,85.28,1284.01,15.64,1,Mature Steady Markets
+Gujarat | Dahod,Gujarat,Dahod,7054.28,62960662,613068,102.7,1120.43,20.57,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Bongaigaon,Assam,Bongaigaon,7041.72,69584348,364372,190.97,1011.97,26.22,2,Hyper-Growth Tier-2/3 Hubs
+Gujarat | Jamnagar,Gujarat,Jamnagar,6883.3,76133307,728437,104.52,904.11,25.33,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Harda,Madhya Pradesh,Harda,6859.62,56084151,276204,203.05,1223.09,24.09,2,Hyper-Growth Tier-2/3 Hubs
+Haryana | Yamunanagar,Haryana,Yamunanagar,6824.47,51788131,626454,82.67,1317.77,14.36,1,Mature Steady Markets
+Madhya Pradesh | Datia,Madhya Pradesh,Datia,6812.56,56188118,354340,158.57,1212.46,10.33,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Ranipet,Tamil Nadu,Ranipet,6794.77,51415268,556069,92.46,1321.55,12.19,1,Mature Steady Markets
+Jharkhand | Latehar,Jharkhand,Latehar,6789.95,54343586,298677,181.95,1249.45,17.65,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Thoothukudi,Tamil Nadu,Thoothukudi,6785.48,51480817,677424,75.99,1318.06,16.04,1,Mature Steady Markets
+Dadra & Nagar Haveli and Daman & Diu | Dadra And Nagar Haveli,Dadra & Nagar Haveli and Daman & Diu,Dadra And Nagar Haveli,6784.35,85311603,423162,201.61,795.24,15.69,2,Hyper-Growth Tier-2/3 Hubs
+Haryana | Charkhi Dadri,Haryana,Charkhi Dadri,6752.93,35476781,261445,135.7,1903.48,10.11,1,Mature Steady Markets
+Haryana | Fatehabad,Haryana,Fatehabad,6751.73,35828441,479172,74.77,1884.46,19.64,1,Mature Steady Markets
+Gujarat | Kheda,Gujarat,Kheda,6734.1,61793809,757478,81.58,1089.77,15.85,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Viluppuram,Tamil Nadu,Viluppuram,6731.7,50613593,711501,71.14,1330.02,10.37,1,Mature Steady Markets
+Assam | Hojai,Assam,Hojai,6700.71,67692168,442831,152.86,989.88,25.43,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Virudhunagar,Tamil Nadu,Virudhunagar,6660.28,46810577,685785,68.26,1422.82,11.04,1,Mature Steady Markets
+Puducherry | Puducherry,Puducherry,Puducherry,6659.24,59014381,585100,100.86,1128.41,10.54,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Panna,Madhya Pradesh,Panna,6605.92,57188877,362752,157.65,1155.11,20.89,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Sribhumi,Assam,Sribhumi,6533.03,57014462,431489,132.13,1145.85,21.01,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Balrampur,Uttar Pradesh,Balrampur,6464.9,57618605,569395,101.19,1122.02,12.91,2,Hyper-Growth Tier-2/3 Hubs
+Punjab | Bathinda,Punjab,Bathinda,6457.28,47345358,652707,72.54,1363.87,18.92,1,Mature Steady Markets
+Jharkhand | Dumka,Jharkhand,Dumka,6451.71,55413433,435783,127.16,1164.29,23.73,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Sonitpur,Assam,Sonitpur,6436.29,69048284,528844,130.56,932.14,19.48,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Tikamgarh,Madhya Pradesh,Tikamgarh,6390.39,62738606,418578,149.89,1018.57,20.16,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Mandla,Madhya Pradesh,Mandla,6356.11,56494184,443113,127.49,1125.09,14.61,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Morigaon,Assam,Morigaon,6347.19,60893573,432252,140.88,1042.34,21.96,2,Hyper-Growth Tier-2/3 Hubs
+Kerala | Alappuzha,Kerala,Alappuzha,6330.75,54000280,910417,59.31,1172.35,13.68,1,Mature Steady Markets
+Rajasthan | Pratapgarh,Rajasthan,Pratapgarh,6177.34,56449132,366670,153.95,1094.32,12.01,2,Hyper-Growth Tier-2/3 Hubs
+Gujarat | Aravalli,Gujarat,Aravalli,6145.6,51429048,404397,127.17,1194.97,19.55,2,Hyper-Growth Tier-2/3 Hubs
+Kerala | Kottayam,Kerala,Kottayam,6116.63,51562583,888447,58.04,1186.25,14.71,1,Mature Steady Markets
+Jharkhand | Pakur,Jharkhand,Pakur,6098.67,41126596,259537,158.46,1482.9,24.76,1,Mature Steady Markets
+Odisha | Subarnapur,Odisha,Subarnapur,6063.55,48760173,243572,200.19,1243.55,20.22,2,Hyper-Growth Tier-2/3 Hubs
+Punjab | Gurdaspur,Punjab,Gurdaspur,6061.86,34000894,538763,63.11,1782.85,27.49,1,Mature Steady Markets
+Uttar Pradesh | Banda,Uttar Pradesh,Banda,6042.85,52558587,530964,98.99,1149.74,15.03,2,Hyper-Growth Tier-2/3 Hubs
+Haryana | Kaithal,Haryana,Kaithal,5952.54,31088048,492920,63.07,1914.73,15.37,1,Mature Steady Markets
+Odisha | Gajapati,Odisha,Gajapati,5805.86,45981534,230741,199.28,1262.65,14.77,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Kaushambi,Uttar Pradesh,Kaushambi,5791.36,45678354,437646,104.37,1267.86,19.92,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Hamirpur,Uttar Pradesh,Hamirpur,5768.94,50417569,409645,123.08,1144.23,9.32,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Maihar,Madhya Pradesh,Maihar,5737.49,51592918,301225,171.28,1112.07,12.39,2,Hyper-Growth Tier-2/3 Hubs
+Gujarat | Anand,Gujarat,Anand,5736.57,48362580,788309,61.35,1186.16,12.63,1,Mature Steady Markets
+Rajasthan | Dungarpur,Rajasthan,Dungarpur,5708.9,47408854,445900,106.32,1204.18,14.29,2,Hyper-Growth Tier-2/3 Hubs
+Himachal Pradesh | Kangra,Himachal Pradesh,Kangra,5699.06,46421414,678305,68.44,1227.68,15.29,1,Mature Steady Markets
+Kerala | Kasargod,Kerala,Kasargod,5565.32,44445709,575308,77.26,1252.16,22.94,1,Mature Steady Markets
+Assam | Kokrajhar,Assam,Kokrajhar,5507.75,52519239,370984,141.57,1048.71,19.66,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Anuppur,Madhya Pradesh,Anuppur,5481.01,55654951,325563,170.95,984.82,15.8,2,Hyper-Growth Tier-2/3 Hubs
+Maharashtra | Ratnagiri,Maharashtra,Ratnagiri,5479.33,49005718,524576,93.42,1118.1,18.98,2,Hyper-Growth Tier-2/3 Hubs
+Odisha | Malkangiri,Odisha,Malkangiri,5473.43,49230248,244763,201.13,1111.8,14.54,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Sivaganga,Tamil Nadu,Sivaganga,5472.51,34498678,480988,71.72,1586.3,16.03,1,Mature Steady Markets
+Uttar Pradesh | Bhadohi,Uttar Pradesh,Bhadohi,5456.58,48454104,522081,92.81,1126.13,12.8,2,Hyper-Growth Tier-2/3 Hubs
+Jammu & Kashmir | Baramulla,Jammu & Kashmir,Baramulla,5430.08,51506679,452576,113.81,1054.25,22.17,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Jashpur,Chhattisgarh,Jashpur,5428.82,46061996,345466,133.33,1178.59,14.09,2,Hyper-Growth Tier-2/3 Hubs
+Jharkhand | West Singhbhum,Jharkhand,West Singhbhum,5355.05,48822717,393232,124.16,1096.83,14.94,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Sakti,Chhattisgarh,Sakti,5314.95,52327494,312402,167.5,1015.71,13.14,2,Hyper-Growth Tier-2/3 Hubs
+Himachal Pradesh | Solan,Himachal Pradesh,Solan,5310.15,65874363,679941,96.88,806.1,16.33,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Pudukkottai,Tamil Nadu,Pudukkottai,5264.76,33988466,521706,65.15,1548.98,15.71,1,Mature Steady Markets
+Gujarat | Panchmahals,Gujarat,Panchmahals,5263.75,53732055,598664,89.75,979.63,15.33,2,Hyper-Growth Tier-2/3 Hubs
+Odisha | Nuapada,Odisha,Nuapada,5237.61,46378497,257425,180.16,1129.32,15.59,2,Hyper-Growth Tier-2/3 Hubs
+Punjab | Hoshiarpur,Punjab,Hoshiarpur,5233.87,34696825,566617,61.24,1508.46,23.03,1,Mature Steady Markets
+Tamil Nadu | Karur,Tamil Nadu,Karur,5182.96,35878632,453542,79.11,1444.58,16.06,1,Mature Steady Markets
+West Bengal | Jhargram,West Bengal,Jhargram,5163.2,47447879,364140,130.3,1088.18,12.53,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Balrampur Ramanujganj,Chhattisgarh,Balrampur Ramanujganj,5161.2,42933520,286133,150.05,1202.14,12.79,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | North Bastar Kanker,Chhattisgarh,North Bastar Kanker,5146.05,42685901,325355,131.2,1205.56,11.72,2,Hyper-Growth Tier-2/3 Hubs
+Odisha | Kandhamal,Odisha,Kandhamal,5143.08,43848225,286456,153.07,1172.93,10.94,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Kabirdham,Chhattisgarh,Kabirdham,5105.58,50546182,325935,155.08,1010.08,15.34,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Sheopur,Madhya Pradesh,Sheopur,5104.88,43676769,266068,164.16,1168.79,15.68,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Ramanathapuram,Tamil Nadu,Ramanathapuram,5087.73,32395018,484803,66.82,1570.53,15.42,1,Mature Steady Markets
+Haryana | Panchkula,Haryana,Panchkula,5037.52,46517094,474365,98.06,1082.94,15.49,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Tinsukia,Assam,Tinsukia,5003.03,50178937,488784,102.66,997.04,16.91,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Mahoba,Uttar Pradesh,Mahoba,4989.2,48532298,346353,140.12,1028.02,15.92,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Surajpur,Chhattisgarh,Surajpur,4956.11,47697384,327627,145.58,1039.07,12.47,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Sarangarh Bilaigarh,Chhattisgarh,Sarangarh Bilaigarh,4921.64,42047034,257463,163.31,1170.51,14.52,2,Hyper-Growth Tier-2/3 Hubs
+Punjab | Fazilka,Punjab,Fazilka,4885.77,32421250,502467,64.52,1506.96,12.48,1,Mature Steady Markets
+Punjab | Tarn Taran,Punjab,Tarn Taran,4788.86,22751846,360111,63.18,2104.82,26.55,1,Mature Steady Markets
+Chhattisgarh | Bemetara,Chhattisgarh,Bemetara,4776.02,44318549,293299,151.1,1077.66,15.14,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Dhamtari,Chhattisgarh,Dhamtari,4770.48,37233670,297814,125.02,1281.23,12.86,2,Hyper-Growth Tier-2/3 Hubs
+Bihar | Arwal,Bihar,Arwal,4698.42,40891836,237075,172.48,1148.99,20.3,2,Hyper-Growth Tier-2/3 Hubs
+Gujarat | Navsari,Gujarat,Navsari,4678.32,40772678,482976,84.42,1147.41,12.43,2,Hyper-Growth Tier-2/3 Hubs
+Bihar | Sheohar,Bihar,Sheohar,4659.55,38450513,217997,176.38,1211.83,17.83,2,Hyper-Growth Tier-2/3 Hubs
+Arunachal Pradesh | Itanagar Capital Complex,Arunachal Pradesh,Itanagar Capital Complex,4629.89,42905756,229815,186.7,1079.08,26.09,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Dibrugarh,Assam,Dibrugarh,4624.7,52943348,518303,102.15,873.52,20.41,2,Hyper-Growth Tier-2/3 Hubs
+Bihar | Sheikhpura,Bihar,Sheikhpura,4550.34,33612688,244878,137.26,1353.76,18.68,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Tenkasi,Tamil Nadu,Tenkasi,4510.88,29556264,440344,67.12,1526.2,15.25,1,Mature Steady Markets
+Jammu & Kashmir | Anantnag,Jammu & Kashmir,Anantnag,4476.21,43348726,396835,109.24,1032.61,25.75,2,Hyper-Growth Tier-2/3 Hubs
+Punjab | Pathankot,Punjab,Pathankot,4433.47,31512744,332301,94.83,1406.88,16.31,1,Mature Steady Markets
+Jammu & Kashmir | Kupwara,Jammu & Kashmir,Kupwara,4295.48,42869741,314641,136.25,1001.98,26.57,2,Hyper-Growth Tier-2/3 Hubs
+Kerala | Idukki,Kerala,Idukki,4274.61,33157466,541617,61.22,1289.19,22.44,1,Mature Steady Markets
+Gujarat | Gir Somnath,Gujarat,Gir Somnath,4261.88,27126411,395797,68.54,1571.12,16.67,1,Mature Steady Markets
+Gujarat | Botad,Gujarat,Botad,4240.65,29001759,317962,91.21,1462.21,13.71,1,Mature Steady Markets
+Tripura | West Tripura,Tripura,West Tripura,4232.82,36482805,442037,82.53,1160.22,19.62,2,Hyper-Growth Tier-2/3 Hubs
+Kerala | Wayanad,Kerala,Wayanad,4209.4,35362570,426923,82.83,1190.35,14.51,1,Mature Steady Markets
+Punjab | Kapurthala,Punjab,Kapurthala,4186.91,39389520,364471,108.07,1062.95,23.36,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Balod,Chhattisgarh,Balod,4155.4,37296098,286794,130.04,1114.17,12.11,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Mauganj,Madhya Pradesh,Mauganj,4078.67,31967044,195796,163.27,1275.9,18.68,2,Hyper-Growth Tier-2/3 Hubs
+Ladakh | Leh Ladakh,Ladakh,Leh Ladakh,4076.38,21899669,177949,123.07,1861.39,11.06,1,Mature Steady Markets
+Jharkhand | Gumla,Jharkhand,Gumla,4066.18,29961783,272860,109.81,1357.12,18.99,1,Mature Steady Markets
+Chhattisgarh | Mungeli,Chhattisgarh,Mungeli,4042.85,41024491,248400,165.15,985.47,14.82,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Chitrakoot,Uttar Pradesh,Chitrakoot,4042.5,33368813,304813,109.47,1211.46,13.73,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Umaria,Madhya Pradesh,Umaria,4039.97,38155065,247075,154.43,1058.83,15.05,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Lakhimpur,Assam,Lakhimpur,3827.7,44844793,423368,105.92,853.54,21.36,2,Hyper-Growth Tier-2/3 Hubs
+Jharkhand | Lohardaga,Jharkhand,Lohardaga,3777.16,32053833,192845,166.22,1178.38,20.03,2,Hyper-Growth Tier-2/3 Hubs
+Odisha | Boudh,Odisha,Boudh,3721.75,30362880,168203,180.51,1225.76,15.09,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Hailakandi,Assam,Hailakandi,3694.07,37932419,247578,153.21,973.86,22.19,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | The Nilgiris,Tamil Nadu,The Nilgiris,3677.16,29149829,306989,94.95,1261.47,9.58,1,Mature Steady Markets
+Assam | Golaghat,Assam,Golaghat,3664.62,41279437,425542,97.0,887.76,17.86,2,Hyper-Growth Tier-2/3 Hubs
+Jammu & Kashmir | Rajouri,Jammu & Kashmir,Rajouri,3620.36,27826381,249474,111.54,1301.05,22.4,2,Hyper-Growth Tier-2/3 Hubs
+Punjab | Ferozepur,Punjab,Ferozepur,3607.54,23021364,386612,59.55,1567.04,15.67,1,Mature Steady Markets
+Kerala | Pathanamthitta,Kerala,Pathanamthitta,3586.42,28844757,487491,59.17,1243.35,15.61,1,Mature Steady Markets
+Jammu & Kashmir | Budgam,Jammu & Kashmir,Budgam,3554.56,31214456,295344,105.69,1138.75,20.27,2,Hyper-Growth Tier-2/3 Hubs
+Andaman & Nicobar Islands | South Andaman,Andaman & Nicobar Islands,South Andaman,3505.05,26714499,180817,147.74,1312.04,17.27,2,Hyper-Growth Tier-2/3 Hubs
+Assam | South Salmara Mankachar,Assam,South Salmara Mankachar,3470.91,31309029,164915,189.85,1108.6,24.05,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Nalbari,Assam,Nalbari,3383.44,32788519,285495,114.85,1031.9,23.57,2,Hyper-Growth Tier-2/3 Hubs
+Jammu & Kashmir | Samba,Jammu & Kashmir,Samba,3360.23,29150226,226948,128.44,1152.73,18.0,2,Hyper-Growth Tier-2/3 Hubs
+Jharkhand | Jamtara,Jharkhand,Jamtara,3359.44,28945540,335026,86.4,1160.61,28.19,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Alirajpur,Madhya Pradesh,Alirajpur,3352.28,27802255,215732,128.87,1205.76,24.12,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Pandhurna,Madhya Pradesh,Pandhurna,3341.18,26941181,168840,159.57,1240.18,18.33,2,Hyper-Growth Tier-2/3 Hubs
+Jammu & Kashmir | Udhampur,Jammu & Kashmir,Udhampur,3339.68,28086498,229751,122.25,1189.07,12.93,2,Hyper-Growth Tier-2/3 Hubs
+Gujarat | Amreli,Gujarat,Amreli,3324.88,23166712,434295,53.34,1435.2,14.17,1,Mature Steady Markets
+Dadra & Nagar Haveli and Daman & Diu | Daman,Dadra & Nagar Haveli and Daman & Diu,Daman,3320.32,43027502,237457,181.2,771.67,20.13,2,Hyper-Growth Tier-2/3 Hubs
+Madhya Pradesh | Dindori,Madhya Pradesh,Dindori,3308.05,30571180,263383,116.07,1082.08,13.24,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Gariaband,Chhattisgarh,Gariaband,3294.4,28683204,211270,135.77,1148.55,11.68,2,Hyper-Growth Tier-2/3 Hubs
+Punjab | Sangrur,Punjab,Sangrur,3279.33,19671051,437953,44.92,1667.09,20.8,1,Mature Steady Markets
+Gujarat | Tapi,Gujarat,Tapi,3266.09,29102592,268397,108.43,1122.27,16.65,2,Hyper-Growth Tier-2/3 Hubs
+Gujarat | Junagadh,Gujarat,Junagadh,3263.45,20227189,447860,45.16,1613.4,13.75,1,Mature Steady Markets
+Himachal Pradesh | Shimla,Himachal Pradesh,Shimla,3258.24,27779229,434661,63.91,1172.9,9.8,1,Mature Steady Markets
+Assam | Chirang,Assam,Chirang,3203.91,30345013,216130,140.4,1055.83,20.06,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Kondagaon,Chhattisgarh,Kondagaon,3194.62,26297361,218397,120.41,1214.8,15.08,2,Hyper-Growth Tier-2/3 Hubs
+Jammu & Kashmir | Kathua,Jammu & Kashmir,Kathua,3184.4,26788971,260377,102.89,1188.7,14.01,2,Hyper-Growth Tier-2/3 Hubs
+Maharashtra | Sindhudurg,Maharashtra,Sindhudurg,3111.09,25804645,296619,87.0,1205.63,20.53,2,Hyper-Growth Tier-2/3 Hubs
+Jammu & Kashmir | Pulwama,Jammu & Kashmir,Pulwama,3058.89,27503472,230528,119.31,1112.18,22.33,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Jorhat,Assam,Jorhat,3010.91,34198710,359897,95.02,880.41,18.89,2,Hyper-Growth Tier-2/3 Hubs
+Sikkim | Gangtok,Sikkim,Gangtok,3008.45,23973155,178569,134.25,1254.93,22.48,2,Hyper-Growth Tier-2/3 Hubs
+Rajasthan | Salumber,Rajasthan,Salumber,2948.83,23835923,187970,126.81,1237.14,11.89,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Tiruvarur,Tamil Nadu,Tiruvarur,2931.57,19057262,363956,52.36,1538.29,15.35,1,Mature Steady Markets
+Meghalaya | East Khasi Hills,Meghalaya,East Khasi Hills,2870.97,23360529,253230,92.25,1228.98,28.21,2,Hyper-Growth Tier-2/3 Hubs
+Himachal Pradesh | Kullu,Himachal Pradesh,Kullu,2869.1,22304621,266297,83.76,1286.32,8.79,1,Mature Steady Markets
+Uttarakhand | Tehri Garhwal,Uttarakhand,Tehri Garhwal,2846.43,26074380,243271,107.18,1091.66,12.85,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Udalguri,Assam,Udalguri,2841.33,29271976,285968,102.36,970.67,24.55,2,Hyper-Growth Tier-2/3 Hubs
+Punjab | Fatehgarh Sahib,Punjab,Fatehgarh Sahib,2801.58,24498915,308884,79.31,1143.55,26.86,2,Hyper-Growth Tier-2/3 Hubs
+Punjab | Rupnagar,Punjab,Rupnagar,2794.2,21175698,300679,70.43,1319.53,21.05,1,Mature Steady Markets
+Madhya Pradesh | Niwari,Madhya Pradesh,Niwari,2738.08,25226715,167319,150.77,1085.39,17.67,2,Hyper-Growth Tier-2/3 Hubs
+Meghalaya | West Garo Hills,Meghalaya,West Garo Hills,2724.17,24120851,198200,121.7,1129.38,22.34,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Dantewada,Chhattisgarh,Dantewada,2712.1,22596728,123252,183.34,1200.22,16.33,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Baksa,Assam,Baksa,2658.87,24024878,198012,121.33,1106.72,19.86,2,Hyper-Growth Tier-2/3 Hubs
+Uttarakhand | Pauri Garhwal,Uttarakhand,Pauri Garhwal,2648.68,24690247,265938,92.84,1072.76,11.91,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Perambalur,Tamil Nadu,Perambalur,2624.96,17616517,233597,75.41,1490.06,16.96,1,Mature Steady Markets
+Punjab | Moga,Punjab,Moga,2623.86,15088963,319177,47.27,1738.93,20.04,1,Mature Steady Markets
+Nagaland | Dimapur,Nagaland,Dimapur,2600.47,18374503,183603,100.08,1415.26,16.26,1,Mature Steady Markets
+Chhattisgarh | Manendragarh Chirmiri Bharatpur,Chhattisgarh,Manendragarh Chirmiri Bharatpur,2590.4,24443936,155037,157.67,1059.73,13.64,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Bijapur,Chhattisgarh,Bijapur,2561.85,19070372,106685,178.75,1343.37,15.19,2,Hyper-Growth Tier-2/3 Hubs
+Gujarat | Mahisagar,Gujarat,Mahisagar,2558.95,22577715,282541,79.91,1133.4,18.67,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Mayiladuthurai,Tamil Nadu,Mayiladuthurai,2547.95,17457675,295000,59.18,1459.5,14.53,1,Mature Steady Markets
+Jammu & Kashmir | Poonch,Jammu & Kashmir,Poonch,2535.39,20173364,183644,109.85,1256.8,24.17,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Dhemaji,Assam,Dhemaji,2460.25,27526703,285951,96.26,893.77,16.39,2,Hyper-Growth Tier-2/3 Hubs
+Tamil Nadu | Ariyalur,Tamil Nadu,Ariyalur,2456.5,16841140,267209,63.03,1458.63,11.48,1,Mature Steady Markets
+Assam | Biswanath,Assam,Biswanath,2407.43,29858801,265100,112.63,806.27,19.43,2,Hyper-Growth Tier-2/3 Hubs
+Himachal Pradesh | Mandi,Himachal Pradesh,Mandi,2393.81,19747493,378762,52.14,1212.21,11.81,1,Mature Steady Markets
+Punjab | Sri Muktsar Sahib,Punjab,Sri Muktsar Sahib,2359.34,14217414,323828,43.9,1659.47,16.89,1,Mature Steady Markets
+Assam | Karbi Anglong,Assam,Karbi Anglong,2315.8,24337434,250231,97.26,951.54,17.35,2,Hyper-Growth Tier-2/3 Hubs
+Jharkhand | Simdega,Jharkhand,Simdega,2226.96,14589845,143496,101.67,1526.38,19.02,1,Mature Steady Markets
+Himachal Pradesh | Sirmaur,Himachal Pradesh,Sirmaur,2186.98,22558795,286899,78.63,969.46,15.84,2,Hyper-Growth Tier-2/3 Hubs
+Jharkhand | Khunti,Jharkhand,Khunti,2170.99,15283078,140949,108.43,1420.52,15.86,1,Mature Steady Markets
+Odisha | Deogarh,Odisha,Deogarh,2153.79,17036675,108489,157.04,1264.21,13.22,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Sivasagar,Assam,Sivasagar,2115.39,25317775,255464,99.11,835.54,18.43,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Gaurela Pendra Marwahi,Chhattisgarh,Gaurela Pendra Marwahi,2112.4,21022186,148923,141.16,1004.85,12.46,2,Hyper-Growth Tier-2/3 Hubs
+Jammu & Kashmir | Kulgam,Jammu & Kashmir,Kulgam,2104.44,22149674,180724,122.56,950.1,34.41,2,Hyper-Growth Tier-2/3 Hubs
+Uttar Pradesh | Shravasti,Uttar Pradesh,Shravasti,2101.3,17364941,267873,64.83,1210.08,15.03,1,Mature Steady Markets
+Chhattisgarh | Korea,Chhattisgarh,Korea,2016.75,20175955,125942,160.2,999.58,9.11,2,Hyper-Growth Tier-2/3 Hubs
+Manipur | Imphal West,Manipur,Imphal West,2009.04,12234673,250480,48.84,1642.08,29.84,1,Mature Steady Markets
+Jammu & Kashmir | Reasi,Jammu & Kashmir,Reasi,2004.97,18456293,161465,114.31,1086.33,11.73,2,Hyper-Growth Tier-2/3 Hubs
+Himachal Pradesh | Una,Himachal Pradesh,Una,1982.81,15700102,229301,68.47,1262.93,15.02,1,Mature Steady Markets
+Gujarat | Devbhumi Dwarka,Gujarat,Devbhumi Dwarka,1979.5,15787517,239469,65.93,1253.84,18.72,1,Mature Steady Markets
+Chhattisgarh | Sukma,Chhattisgarh,Sukma,1941.17,13526375,83424,162.14,1435.1,6.85,1,Mature Steady Markets
+Jammu & Kashmir | Shopian,Jammu & Kashmir,Shopian,1912.02,20606169,136065,151.44,927.89,36.91,2,Hyper-Growth Tier-2/3 Hubs
+Punjab | Faridkot,Punjab,Faridkot,1879.59,11658835,228922,50.93,1612.16,19.34,1,Mature Steady Markets
+Tamil Nadu | Nagapattinam,Tamil Nadu,Nagapattinam,1766.24,12898671,207623,62.13,1369.32,15.55,1,Mature Steady Markets
+Assam | Bajali,Assam,Bajali,1763.35,16899294,116152,145.49,1043.45,23.0,2,Hyper-Growth Tier-2/3 Hubs
+Jammu & Kashmir | Bandipore,Jammu & Kashmir,Bandipore,1746.82,17371047,143040,121.44,1005.6,26.3,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Khairagarh Chhuikhadan Gandai,Chhattisgarh,Khairagarh Chhuikhadan Gandai,1741.37,15914727,127822,124.51,1094.19,12.68,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Tamulpur,Assam,Tamulpur,1719.49,15220870,148083,102.79,1129.69,21.97,2,Hyper-Growth Tier-2/3 Hubs
+Tripura | North Tripura,Tripura,North Tripura,1675.83,13702759,142104,96.43,1222.99,18.28,2,Hyper-Growth Tier-2/3 Hubs
+Punjab | Mansa,Punjab,Mansa,1644.43,9338097,255495,36.55,1760.99,23.16,1,Mature Steady Markets
+Himachal Pradesh | Hamirpur,Himachal Pradesh,Hamirpur,1631.54,13703116,220830,62.05,1190.64,12.69,1,Mature Steady Markets
+Uttarakhand | Pithoragarh,Uttarakhand,Pithoragarh,1628.33,13538836,172416,78.52,1202.71,14.74,1,Mature Steady Markets
+Uttarakhand | Almora,Uttarakhand,Almora,1628.1,13557643,180992,74.91,1200.88,11.13,1,Mature Steady Markets
+Punjab | Barnala,Punjab,Barnala,1600.99,9703186,208611,46.51,1649.97,23.61,1,Mature Steady Markets
+Gujarat | Narmada,Gujarat,Narmada,1568.9,15573791,170846,91.16,1007.4,12.44,2,Hyper-Growth Tier-2/3 Hubs
+Arunachal Pradesh | West Kameng,Arunachal Pradesh,West Kameng,1539.42,11553003,67363,171.5,1332.49,23.27,2,Hyper-Growth Tier-2/3 Hubs
+Uttarakhand | Chamoli,Uttarakhand,Chamoli,1513.75,12134020,145515,83.39,1247.53,12.57,1,Mature Steady Markets
+Gujarat | Chhotaudepur,Gujarat,Chhotaudepur,1424.86,11802037,198583,59.43,1207.3,14.4,1,Mature Steady Markets
+Arunachal Pradesh | Papum Pare,Arunachal Pradesh,Papum Pare,1421.42,13304295,72310,183.99,1068.39,28.47,2,Hyper-Growth Tier-2/3 Hubs
+Gujarat | Porbandar,Gujarat,Porbandar,1420.68,7808459,161118,48.46,1819.41,14.68,1,Mature Steady Markets
+Jammu & Kashmir | Doda,Jammu & Kashmir,Doda,1413.34,13827510,147939,93.47,1022.12,12.44,2,Hyper-Growth Tier-2/3 Hubs
+Jammu & Kashmir | Ramban,Jammu & Kashmir,Ramban,1382.35,13173157,110548,119.16,1049.37,8.43,2,Hyper-Growth Tier-2/3 Hubs
+Punjab | Shaheed Bhagat Singh Nagar,Punjab,Shaheed Bhagat Singh Nagar,1334.31,8904100,174023,51.17,1498.53,24.6,1,Mature Steady Markets
+Punjab | Malerkotla,Punjab,Malerkotla,1332.06,8520881,155514,54.79,1563.29,16.14,1,Mature Steady Markets
+Assam | Dima Hasao,Assam,Dima Hasao,1310.95,14162124,102858,137.69,925.68,17.14,2,Hyper-Growth Tier-2/3 Hubs
+Assam | Charaideo,Assam,Charaideo,1283.97,15182524,163599,92.8,845.69,17.38,2,Hyper-Growth Tier-2/3 Hubs
+Himachal Pradesh | Chamba,Himachal Pradesh,Chamba,1268.37,10592349,182594,58.01,1197.44,5.82,1,Mature Steady Markets
+Uttarakhand | Rudraprayag,Uttarakhand,Rudraprayag,1262.38,9617579,100742,95.47,1312.58,12.25,1,Mature Steady Markets
+West Bengal | Kalimpong,West Bengal,Kalimpong,1255.5,10679459,102778,103.91,1175.62,19.32,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Narayanpur,Chhattisgarh,Narayanpur,1246.46,9583992,60578,158.21,1300.56,25.48,2,Hyper-Growth Tier-2/3 Hubs
+Puducherry | Yanam,Puducherry,Yanam,1245.63,10033579,24897,403.0,1241.46,14.34,2,Hyper-Growth Tier-2/3 Hubs
+Meghalaya | Ri Bhoi,Meghalaya,Ri Bhoi,1191.44,10306978,77873,132.36,1155.96,25.35,2,Hyper-Growth Tier-2/3 Hubs
+Jammu & Kashmir | Ganderbal,Jammu & Kashmir,Ganderbal,1189.13,11179698,128599,86.93,1063.65,-2.79,2,Hyper-Growth Tier-2/3 Hubs
+Mizoram | Aizawl,Mizoram,Aizawl,1172.31,8639363,164163,52.63,1356.94,34.55,0,Emerging Expansion Targets
+Himachal Pradesh | Bilaspur,Himachal Pradesh,Bilaspur,1160.14,9938082,162388,61.2,1167.37,11.78,1,Mature Steady Markets
+Arunachal Pradesh | East Siang,Arunachal Pradesh,East Siang,1127.87,10260681,71075,144.36,1099.22,22.18,2,Hyper-Growth Tier-2/3 Hubs
+Nagaland | Chumoukedima,Nagaland,Chumoukedima,1111.04,9019001,104347,86.43,1231.89,19.83,2,Hyper-Growth Tier-2/3 Hubs
+Uttarakhand | Uttarkashi,Uttarakhand,Uttarkashi,1108.63,8498791,117001,72.64,1304.45,10.27,1,Mature Steady Markets
+Manipur | Imphal East,Manipur,Imphal East,1054.76,6833441,152751,44.74,1543.53,23.81,1,Mature Steady Markets
+Nagaland | Kohima,Nagaland,Kohima,1022.83,6865279,98267,69.86,1489.87,21.2,1,Mature Steady Markets
+Uttarakhand | Champawat,Uttarakhand,Champawat,1016.03,8610130,97960,87.89,1180.04,14.0,2,Hyper-Growth Tier-2/3 Hubs
+Ladakh | Kargil,Ladakh,Kargil,1005.67,8264106,72972,113.25,1216.92,25.89,2,Hyper-Growth Tier-2/3 Hubs
+Meghalaya | East Jaintia Hills,Meghalaya,East Jaintia Hills,994.24,6877343,51614,133.25,1445.67,5.0,1,Mature Steady Markets
+Tripura | South Tripura,Tripura,South Tripura,961.47,6923381,120944,57.24,1388.73,13.32,1,Mature Steady Markets
+Arunachal Pradesh | Tawang,Arunachal Pradesh,Tawang,961.26,5168508,37510,137.79,1859.84,29.45,0,Emerging Expansion Targets
+Sikkim | Namchi,Sikkim,Namchi,958.33,9252067,76043,121.67,1035.8,28.04,2,Hyper-Growth Tier-2/3 Hubs
+Jammu & Kashmir | Kishtwar,Jammu & Kashmir,Kishtwar,954.66,9220886,89809,102.67,1035.33,16.37,2,Hyper-Growth Tier-2/3 Hubs
+Arunachal Pradesh | West Siang,Arunachal Pradesh,West Siang,954.04,7712732,42005,183.61,1236.97,23.67,2,Hyper-Growth Tier-2/3 Hubs
+Chhattisgarh | Mohla Manpur Ambagarh Chouki,Chhattisgarh,Mohla Manpur Ambagarh Chouki,932.3,7812946,84786,92.15,1193.27,7.99,1,Mature Steady Markets
+Tripura | Gomati,Tripura,Gomati,908.26,6930019,129970,53.32,1310.62,17.12,1,Mature Steady Markets
+Puducherry | Karaikal,Puducherry,Karaikal,862.23,6780083,92000,73.7,1271.71,11.56,1,Mature Steady Markets
+Tripura | Sepahijala,Tripura,Sepahijala,861.25,6226487,121938,51.06,1383.2,9.74,1,Mature Steady Markets
+Sikkim | Pakyong,Sikkim,Pakyong,847.99,8142289,61769,131.82,1041.47,18.51,2,Hyper-Growth Tier-2/3 Hubs
+Arunachal Pradesh | Changlang,Arunachal Pradesh,Changlang,825.06,6979890,65944,105.85,1182.06,18.59,2,Hyper-Growth Tier-2/3 Hubs
+Arunachal Pradesh | Namsai,Arunachal Pradesh,Namsai,802.18,7408909,53954,137.32,1082.72,21.19,2,Hyper-Growth Tier-2/3 Hubs
+Tripura | Dhalai,Tripura,Dhalai,757.88,6425295,115534,55.61,1179.53,7.47,1,Mature Steady Markets
+Manipur | Thoubal,Manipur,Thoubal,685.05,4562030,121356,37.59,1501.64,14.51,1,Mature Steady Markets
+Tripura | Unakoti,Tripura,Unakoti,668.78,6106274,89899,67.92,1095.23,17.7,2,Hyper-Growth Tier-2/3 Hubs
+Meghalaya | South West Garo Hills,Meghalaya,South West Garo Hills,661.02,4015382,49696,80.8,1646.22,51.52,0,Emerging Expansion Targets
+Sikkim | Mangan,Sikkim,Mangan,652.55,4323795,32027,135.0,1509.2,30.65,0,Emerging Expansion Targets
+Arunachal Pradesh | Upper Subansiri,Arunachal Pradesh,Upper Subansiri,640.39,4404528,31805,138.49,1453.94,29.73,0,Emerging Expansion Targets
+Arunachal Pradesh | Lohit,Arunachal Pradesh,Lohit,616.73,5578613,34707,160.73,1105.53,24.76,2,Hyper-Growth Tier-2/3 Hubs
+Gujarat | Dangs,Gujarat,Dangs,614.31,6097439,66973,91.04,1007.49,12.43,2,Hyper-Growth Tier-2/3 Hubs
+Manipur | Bishnupur,Manipur,Bishnupur,581.67,3373599,74212,45.46,1724.2,29.42,0,Emerging Expansion Targets
+Uttarakhand | Bageshwar,Uttarakhand,Bageshwar,544.93,4673627,74576,62.67,1165.96,10.24,1,Mature Steady Markets
+Arunachal Pradesh | Lower Dibang Valley,Arunachal Pradesh,Lower Dibang Valley,537.72,4588940,32326,141.96,1171.77,25.53,0,Emerging Expansion Targets
+Himachal Pradesh | Kinnaur,Himachal Pradesh,Kinnaur,537.4,3964023,49443,80.17,1355.69,19.11,0,Emerging Expansion Targets
+Assam | West Karbi Anglong,Assam,West Karbi Anglong,516.12,6045331,78698,76.82,853.75,22.24,2,Hyper-Growth Tier-2/3 Hubs
+Manipur | Churachandpur,Manipur,Churachandpur,498.83,2909851,65041,44.74,1714.28,35.58,0,Emerging Expansion Targets
+Tripura | Khowai,Tripura,Khowai,496.23,3868853,79657,48.57,1282.63,14.43,1,Mature Steady Markets
+Arunachal Pradesh | Lower Subansiri,Arunachal Pradesh,Lower Subansiri,488.93,4112296,24643,166.87,1188.95,20.78,2,Hyper-Growth Tier-2/3 Hubs
+Sikkim | Gyalshing,Sikkim,Gyalshing,480.38,3830840,34405,111.35,1253.98,27.99,0,Emerging Expansion Targets
+Arunachal Pradesh | East Kameng,Arunachal Pradesh,East Kameng,459.14,3940824,24284,162.28,1165.08,26.74,0,Emerging Expansion Targets
+Meghalaya | West Jaintia Hills,Meghalaya,West Jaintia Hills,405.61,4079242,43171,94.49,994.32,85.44,0,Emerging Expansion Targets
+Manipur | Kangpokpi,Manipur,Kangpokpi,399.09,2061399,31832,64.76,1936.04,29.36,0,Emerging Expansion Targets
+Nagaland | Mon,Nagaland,Mon,375.09,2649542,44304,59.8,1415.68,20.55,0,Emerging Expansion Targets
+Andaman & Nicobar Islands | North And Middle Andaman,Andaman & Nicobar Islands,North And Middle Andaman,369.31,2263742,30008,75.44,1631.43,16.07,0,Emerging Expansion Targets
+Arunachal Pradesh | Tirap,Arunachal Pradesh,Tirap,364.37,3133426,25740,121.73,1162.86,22.13,0,Emerging Expansion Targets
+Himachal Pradesh | Lahaul And Spiti,Himachal Pradesh,Lahaul And Spiti,347.6,2226831,23388,95.21,1560.95,24.27,0,Emerging Expansion Targets
+Nagaland | Mokokchung,Nagaland,Mokokchung,332.33,2550783,40232,63.4,1302.84,18.53,0,Emerging Expansion Targets
+Dadra & Nagar Haveli and Daman & Diu | Diu,Dadra & Nagar Haveli and Daman & Diu,Diu,331.81,2406952,24826,96.95,1378.54,22.1,0,Emerging Expansion Targets
+Sikkim | Soreng,Sikkim,Soreng,316.01,2725918,24290,112.22,1159.28,37.95,0,Emerging Expansion Targets
+Assam | Majuli,Assam,Majuli,301.67,3748827,48523,77.26,804.71,17.67,2,Hyper-Growth Tier-2/3 Hubs
+Manipur | Jiribam,Manipur,Jiribam,278.12,2118026,19461,108.83,1313.13,26.67,0,Emerging Expansion Targets
+Meghalaya | North Garo Hills,Meghalaya,North Garo Hills,270.36,3042026,42420,71.71,888.74,18.68,2,Hyper-Growth Tier-2/3 Hubs
+Arunachal Pradesh | Upper Siang,Arunachal Pradesh,Upper Siang,267.22,1894161,15893,119.18,1410.76,20.52,0,Emerging Expansion Targets
+Puducherry | Mahe,Puducherry,Mahe,253.61,1893505,21566,87.8,1339.38,20.66,0,Emerging Expansion Targets
+Arunachal Pradesh | Lower Siang,Arunachal Pradesh,Lower Siang,252.49,2011467,12229,164.48,1255.27,21.35,0,Emerging Expansion Targets
+Arunachal Pradesh | Longding,Arunachal Pradesh,Longding,250.94,2284458,18662,122.41,1098.47,29.59,0,Emerging Expansion Targets
+Meghalaya | East Garo Hills,Meghalaya,East Garo Hills,245.62,2631413,38695,68.0,933.42,10.54,2,Hyper-Growth Tier-2/3 Hubs
+Arunachal Pradesh | Anjaw,Arunachal Pradesh,Anjaw,243.76,1701762,12206,139.42,1432.42,35.43,0,Emerging Expansion Targets
+Manipur | Senapati,Manipur,Senapati,239.45,1371565,26306,52.14,1745.84,19.26,0,Emerging Expansion Targets
+Arunachal Pradesh | Lepa Rada,Arunachal Pradesh,Lepa Rada,226.32,1897250,12193,155.6,1192.91,20.96,0,Emerging Expansion Targets
+Mizoram | Lunglei,Mizoram,Lunglei,222.82,1568206,38804,40.41,1420.84,14.43,0,Emerging Expansion Targets
+Mizoram | Kolasib,Mizoram,Kolasib,216.58,1767521,27161,65.08,1225.33,12.83,0,Emerging Expansion Targets
+Meghalaya | South Garo Hills,Meghalaya,South Garo Hills,216.58,1786706,30453,58.67,1212.15,4.02,1,Mature Steady Markets
+Mizoram | Lawngtlai,Mizoram,Lawngtlai,207.47,1597060,38269,41.73,1299.09,12.36,0,Emerging Expansion Targets
+Manipur | Ukhrul,Manipur,Ukhrul,204.79,1003505,23605,42.51,2040.74,22.05,0,Emerging Expansion Targets
+Nagaland | Wokha,Nagaland,Wokha,203.52,1333966,24100,55.35,1525.7,17.05,0,Emerging Expansion Targets
+Arunachal Pradesh | Siang,Arunachal Pradesh,Siang,197.02,1603311,12679,126.45,1228.82,30.87,0,Emerging Expansion Targets
+Manipur | Kakching,Manipur,Kakching,196.42,1159719,33406,34.72,1693.69,20.82,0,Emerging Expansion Targets
+Meghalaya | West Khasi Hills,Meghalaya,West Khasi Hills,181.29,970823,17274,56.2,1867.37,25.63,0,Emerging Expansion Targets
+Andaman & Nicobar Islands | Nicobar,Andaman & Nicobar Islands,Nicobar,179.42,1080712,9934,108.79,1660.19,13.07,0,Emerging Expansion Targets
+Nagaland | Tuensang,Nagaland,Tuensang,155.79,1128445,22132,50.99,1380.59,17.63,0,Emerging Expansion Targets
+Arunachal Pradesh | Keyi Panyor,Arunachal Pradesh,Keyi Panyor,155.21,1441580,9819,146.82,1076.68,24.43,0,Emerging Expansion Targets
+Mizoram | Mamit,Mizoram,Mamit,143.59,1029954,23308,44.19,1394.14,35.01,0,Emerging Expansion Targets
+Arunachal Pradesh | Kurung Kumey,Arunachal Pradesh,Kurung Kumey,140.41,898508,7991,112.44,1562.73,49.09,0,Emerging Expansion Targets
+Arunachal Pradesh | Kra Daadi,Arunachal Pradesh,Kra Daadi,132.48,962565,7447,129.26,1376.36,26.94,0,Emerging Expansion Targets
+Lakshadweep | Lakshadweep,Lakshadweep,Lakshadweep,132.05,1345706,18419,73.06,981.26,18.92,0,Emerging Expansion Targets
+Meghalaya | South West Khasi Hills,Meghalaya,South West Khasi Hills,131.54,585906,10957,53.47,2245.13,28.14,0,Emerging Expansion Targets
+Manipur | Tengnoupal,Manipur,Tengnoupal,130.14,569988,9787,58.24,2283.29,15.0,0,Emerging Expansion Targets
+Manipur | Tamenglong,Manipur,Tamenglong,120.4,672407,15066,44.63,1790.64,28.03,0,Emerging Expansion Targets
+Arunachal Pradesh | Dibang Valley,Arunachal Pradesh,Dibang Valley,119.53,834669,6908,120.83,1432.03,31.11,0,Emerging Expansion Targets
+Manipur | Chandel,Manipur,Chandel,118.13,624418,13771,45.34,1891.84,21.55,0,Emerging Expansion Targets
+Arunachal Pradesh | Kamle,Arunachal Pradesh,Kamle,113.3,961298,6858,140.17,1178.64,45.86,0,Emerging Expansion Targets
+Arunachal Pradesh | Shi Yomi,Arunachal Pradesh,Shi Yomi,112.1,466657,6109,76.39,2402.26,44.09,0,Emerging Expansion Targets
+Nagaland | Peren,Nagaland,Peren,111.31,856190,17052,50.21,1300.06,25.03,0,Emerging Expansion Targets
+Nagaland | Zunheboto,Nagaland,Zunheboto,109.2,680722,16367,41.59,1604.12,15.23,0,Emerging Expansion Targets
+Manipur | Noney,Manipur,Noney,107.44,599653,11418,52.52,1791.78,14.28,0,Emerging Expansion Targets
+Nagaland | Phek,Nagaland,Phek,98.93,609005,15007,40.58,1624.46,13.32,0,Emerging Expansion Targets
+Mizoram | Siaha,Mizoram,Siaha,93.98,802383,13204,60.77,1171.29,17.07,0,Emerging Expansion Targets
+Arunachal Pradesh | Bichom,Arunachal Pradesh,Bichom,85.05,570256,4110,138.75,1491.35,76.73,0,Emerging Expansion Targets
+Nagaland | Kiphire,Nagaland,Kiphire,82.55,491688,11608,42.36,1678.81,18.73,0,Emerging Expansion Targets
+Mizoram | Serchhip,Mizoram,Serchhip,77.14,523805,13472,38.88,1472.77,16.43,0,Emerging Expansion Targets
+Arunachal Pradesh | Pakke Kessang,Arunachal Pradesh,Pakke Kessang,70.8,664345,4655,142.72,1065.74,31.62,0,Emerging Expansion Targets
+Nagaland | Longleng,Nagaland,Longleng,66.08,456958,9582,47.69,1446.05,26.91,0,Emerging Expansion Targets
+Nagaland | Meluri,Nagaland,Meluri,61.28,322570,4961,65.02,1899.85,12.46,0,Emerging Expansion Targets
+Mizoram | Champhai,Mizoram,Champhai,56.87,353824,13914,25.43,1607.43,13.22,0,Emerging Expansion Targets
+Manipur | Kamjong,Manipur,Kamjong,39.17,182796,3616,50.55,2143.06,16.92,0,Emerging Expansion Targets
+Meghalaya | Eastern West Khasi Hills,Meghalaya,Eastern West Khasi Hills,38.62,263840,7692,34.3,1463.61,35.56,0,Emerging Expansion Targets
+Mizoram | Saitual,Mizoram,Saitual,35.43,267349,6864,38.95,1325.16,-15.08,1,Mature Steady Markets
+Nagaland | Noklak,Nagaland,Noklak,31.97,169339,4088,41.42,1887.89,6.38,0,Emerging Expansion Targets
+Jammu & Kashmir | Muzaffarabad,Jammu & Kashmir,Muzaffarabad,31.95,117892,1243,94.84,2710.47,-9.48,0,Emerging Expansion Targets
+Nagaland | Shamator,Nagaland,Shamator,21.46,119970,3469,34.58,1788.67,23.72,0,Emerging Expansion Targets
+Mizoram | Hnahthial,Mizoram,Hnahthial,19.62,142007,4730,30.02,1381.43,15.86,0,Emerging Expansion Targets
+Mizoram | Khawzawl,Mizoram,Khawzawl,17.8,145226,5181,28.03,1225.55,30.76,0,Emerging Expansion Targets
+Nagaland | Tseminyu,Nagaland,Tseminyu,16.61,105700,3232,32.7,1571.74,31.38,0,Emerging Expansion Targets
+Jammu & Kashmir | Mirpur,Jammu & Kashmir,Mirpur,5.61,22583,255,88.56,2484.96,-35.35,0,Emerging Expansion Targets
+Manipur | Pherzawl,Manipur,Pherzawl,4.47,36488,1928,18.93,1226.06,22.3,0,Emerging Expansion Targets
+Nagaland | Niuland,Nagaland,Niuland,0.93,8137,120,67.81,1141.31,80.28,0,Emerging Expansion Targets

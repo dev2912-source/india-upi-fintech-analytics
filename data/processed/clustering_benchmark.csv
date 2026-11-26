@@ -1,0 +1,9 @@
+model,k,silhouette_score,davies_bouldin
+K-Means,3,0.2499,1.346
+GMM,3,0.3202,1.5389
+K-Means,4,0.2381,1.2926
+GMM,4,0.1909,1.9372
+K-Means,5,0.2467,1.3135
+GMM,5,0.2089,1.4079
+K-Means,6,0.2345,1.2189
+GMM,6,0.2049,1.427
